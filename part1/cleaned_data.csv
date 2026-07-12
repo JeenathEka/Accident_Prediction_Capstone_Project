@@ -1,0 +1,1496 @@
+State Name,City Name,Month,Day of Week,Weather Conditions,Accident Location Details
+Jammu and Kashmir,Some City,May,Monday,Hazy,Curve
+Sikkim,Some City,August,Thursday,Foggy,Intersection
+Himachal Pradesh,Some City,December,Wednesday,Clear,Curve
+Uttar Pradesh,Kanpur,August,Tuesday,Clear,Curve
+Telangana,Some City,August,Friday,Foggy,Intersection
+Arunachal Pradesh,Some City,August,Friday,Stormy,Curve
+Andhra Pradesh,Tirupati,October,Sunday,Rainy,Curve
+Karnataka,Bangalore,October,Thursday,Hazy,Intersection
+Maharashtra,Nagpur,December,Tuesday,Foggy,Intersection
+Tamil Nadu,Madurai,August,Tuesday,Stormy,Intersection
+Chandigarh,Some City,March,Friday,Stormy,Curve
+Maharashtra,Mumbai,July,Saturday,Hazy,Curve
+Odisha,Some City,July,Thursday,Stormy,Curve
+Assam,Some City,July,Thursday,Foggy,Curve
+Nagaland,Some City,June,Saturday,Foggy,Intersection
+Gujarat,Surat,July,Tuesday,Foggy,Intersection
+Tripura,Some City,February,Sunday,Foggy,Curve
+Karnataka,Bangalore,February,Wednesday,Rainy,Intersection
+West Bengal,Durgapur,November,Friday,Foggy,Intersection
+Chhattisgarh,Some City,January,Tuesday,Rainy,Curve
+Himachal Pradesh,Some City,October,Wednesday,Stormy,Intersection
+Gujarat,Ahmedabad,May,Sunday,Hazy,Curve
+Gujarat,Ahmedabad,December,Wednesday,Rainy,Intersection
+Odisha,Some City,August,Tuesday,Foggy,Curve
+Chhattisgarh,Some City,April,Saturday,Foggy,Intersection
+Uttarakhand,Some City,February,Sunday,Stormy,Intersection
+Haryana,Some City,August,Sunday,Hazy,Intersection
+Himachal Pradesh,Some City,October,Saturday,Foggy,Intersection
+Odisha,Some City,June,Thursday,Hazy,Curve
+Telangana,Some City,August,Saturday,Foggy,Intersection
+Goa,Some City,February,Saturday,Clear,Curve
+Assam,Some City,April,Sunday,Stormy,Intersection
+Odisha,Some City,May,Wednesday,Hazy,Intersection
+Mizoram,Some City,June,Friday,Hazy,Intersection
+Gujarat,Vadodara,March,Wednesday,Foggy,Intersection
+Delhi,Dwarka,January,Tuesday,Rainy,Intersection
+Punjab,Some City,April,Tuesday,Stormy,Curve
+Jammu and Kashmir,Some City,December,Friday,Rainy,Intersection
+Chandigarh,Some City,October,Wednesday,Rainy,Curve
+Madhya Pradesh,Some City,July,Sunday,Hazy,Intersection
+Tripura,Some City,February,Saturday,Foggy,Curve
+Madhya Pradesh,Some City,October,Tuesday,Clear,Curve
+Jharkhand,Some City,November,Tuesday,Stormy,Intersection
+Punjab,Some City,August,Sunday,Rainy,Curve
+Nagaland,Some City,July,Friday,Stormy,Curve
+Uttar Pradesh,Lucknow,April,Saturday,Clear,Curve
+Assam,Some City,February,Saturday,Stormy,Curve
+Tripura,Some City,December,Sunday,Clear,Intersection
+Andhra Pradesh,Tirupati,August,Saturday,Rainy,Intersection
+Kerala,Some City,April,Monday,Clear,Curve
+Goa,Some City,June,Sunday,Stormy,Curve
+Gujarat,Vadodara,August,Wednesday,Stormy,Curve
+Chhattisgarh,Some City,October,Friday,Clear,Curve
+Karnataka,Mysore,December,Tuesday,Stormy,Intersection
+Manipur,Some City,June,Wednesday,Foggy,Intersection
+Jharkhand,Some City,October,Wednesday,Hazy,Curve
+Mizoram,Some City,May,Monday,Rainy,Intersection
+Chandigarh,Some City,October,Tuesday,Stormy,Intersection
+Punjab,Some City,May,Friday,Clear,Intersection
+Telangana,Some City,June,Monday,Stormy,Curve
+Karnataka,Mangalore,June,Sunday,Rainy,Curve
+Madhya Pradesh,Some City,July,Monday,Rainy,Intersection
+Tamil Nadu,Chennai,May,Friday,Hazy,Intersection
+Delhi,Rohini,April,Monday,Stormy,Intersection
+West Bengal,Kolkata,June,Saturday,Rainy,Intersection
+Tamil Nadu,Chennai,November,Thursday,Rainy,Intersection
+Punjab,Some City,May,Tuesday,Stormy,Intersection
+Karnataka,Bangalore,May,Thursday,Rainy,Intersection
+Nagaland,Some City,November,Sunday,Foggy,Intersection
+Meghalaya,Some City,October,Thursday,Clear,Curve
+Haryana,Some City,August,Sunday,Foggy,Curve
+Bihar,Some City,June,Tuesday,Stormy,Curve
+Odisha,Some City,September,Friday,Stormy,Curve
+Telangana,Some City,July,Friday,Hazy,Intersection
+Andhra Pradesh,Visakhapatnam,December,Thursday,Clear,Curve
+Chhattisgarh,Some City,May,Friday,Foggy,Intersection
+Madhya Pradesh,Some City,November,Thursday,Stormy,Curve
+Assam,Some City,August,Sunday,Rainy,Curve
+Nagaland,Some City,March,Monday,Foggy,Curve
+Arunachal Pradesh,Some City,June,Sunday,Hazy,Curve
+Puducherry,Some City,July,Friday,Clear,Curve
+Tamil Nadu,Chennai,April,Saturday,Hazy,Curve
+Assam,Some City,November,Saturday,Foggy,Intersection
+Manipur,Some City,April,Monday,Clear,Intersection
+Uttarakhand,Some City,July,Wednesday,Hazy,Curve
+Delhi,New Delhi,January,Saturday,Clear,Intersection
+Bihar,Some City,March,Saturday,Stormy,Intersection
+Tripura,Some City,September,Friday,Rainy,Curve
+Telangana,Some City,October,Thursday,Hazy,Curve
+Puducherry,Some City,December,Wednesday,Hazy,Curve
+Chandigarh,Some City,August,Thursday,Clear,Curve
+Himachal Pradesh,Some City,December,Friday,Clear,Curve
+Tamil Nadu,Coimbatore,January,Sunday,Foggy,Curve
+Karnataka,Mangalore,August,Monday,Rainy,Intersection
+Madhya Pradesh,Some City,September,Saturday,Rainy,Curve
+Kerala,Some City,July,Saturday,Rainy,Curve
+Assam,Some City,December,Saturday,Stormy,Intersection
+Haryana,Some City,March,Monday,Clear,Curve
+Punjab,Some City,July,Saturday,Clear,Intersection
+Assam,Some City,January,Sunday,Foggy,Curve
+Sikkim,Some City,June,Saturday,Rainy,Curve
+Tripura,Some City,February,Wednesday,Clear,Intersection
+West Bengal,Durgapur,July,Saturday,Clear,Intersection
+Tripura,Some City,April,Wednesday,Foggy,Curve
+Bihar,Some City,January,Sunday,Foggy,Intersection
+Rajasthan,Udaipur,February,Tuesday,Hazy,Intersection
+Jharkhand,Some City,June,Tuesday,Stormy,Curve
+Punjab,Some City,June,Monday,Hazy,Intersection
+Uttarakhand,Some City,June,Monday,Hazy,Curve
+Himachal Pradesh,Some City,November,Monday,Rainy,Intersection
+Gujarat,Ahmedabad,June,Wednesday,Hazy,Intersection
+Uttar Pradesh,Varanasi,October,Tuesday,Stormy,Curve
+Karnataka,Mangalore,January,Tuesday,Hazy,Curve
+Madhya Pradesh,Some City,February,Thursday,Clear,Curve
+Uttarakhand,Some City,November,Sunday,Stormy,Curve
+Goa,Some City,February,Friday,Hazy,Intersection
+Chhattisgarh,Some City,November,Friday,Stormy,Intersection
+Maharashtra,Pune,May,Thursday,Stormy,Intersection
+Himachal Pradesh,Some City,March,Tuesday,Stormy,Intersection
+Nagaland,Some City,January,Wednesday,Foggy,Intersection
+Karnataka,Mysore,March,Friday,Clear,Curve
+Manipur,Some City,May,Wednesday,Hazy,Intersection
+Arunachal Pradesh,Some City,November,Monday,Rainy,Curve
+Goa,Some City,August,Thursday,Clear,Intersection
+Manipur,Some City,January,Wednesday,Foggy,Intersection
+Kerala,Some City,December,Friday,Hazy,Curve
+Arunachal Pradesh,Some City,December,Thursday,Rainy,Curve
+Odisha,Some City,November,Thursday,Foggy,Curve
+Kerala,Some City,October,Tuesday,Stormy,Curve
+Telangana,Some City,September,Wednesday,Clear,Curve
+Karnataka,Mysore,March,Wednesday,Hazy,Intersection
+West Bengal,Kolkata,May,Friday,Foggy,Intersection
+Jammu and Kashmir,Some City,January,Saturday,Hazy,Curve
+Kerala,Some City,January,Thursday,Clear,Intersection
+Madhya Pradesh,Some City,November,Wednesday,Clear,Curve
+Meghalaya,Some City,March,Thursday,Hazy,Intersection
+Goa,Some City,May,Friday,Rainy,Intersection
+Telangana,Some City,June,Monday,Stormy,Curve
+Tripura,Some City,January,Friday,Rainy,Intersection
+Meghalaya,Some City,March,Sunday,Foggy,Curve
+Telangana,Some City,February,Friday,Clear,Curve
+West Bengal,Siliguri,August,Saturday,Foggy,Intersection
+Chandigarh,Some City,January,Thursday,Hazy,Intersection
+Jharkhand,Some City,July,Wednesday,Rainy,Intersection
+Maharashtra,Pune,February,Tuesday,Foggy,Intersection
+Andhra Pradesh,Vijayawada,October,Tuesday,Hazy,Curve
+Delhi,New Delhi,May,Sunday,Stormy,Curve
+Gujarat,Surat,June,Thursday,Clear,Intersection
+Assam,Some City,May,Tuesday,Foggy,Curve
+Andhra Pradesh,Tirupati,November,Friday,Stormy,Intersection
+Goa,Some City,February,Monday,Foggy,Intersection
+Nagaland,Some City,July,Sunday,Stormy,Intersection
+West Bengal,Kolkata,May,Tuesday,Hazy,Intersection
+Jammu and Kashmir,Some City,August,Sunday,Stormy,Intersection
+Manipur,Some City,October,Thursday,Clear,Curve
+West Bengal,Durgapur,September,Thursday,Foggy,Curve
+Himachal Pradesh,Some City,March,Sunday,Foggy,Curve
+Nagaland,Some City,September,Thursday,Stormy,Intersection
+Punjab,Some City,September,Thursday,Hazy,Intersection
+Himachal Pradesh,Some City,January,Tuesday,Hazy,Intersection
+Haryana,Some City,January,Friday,Stormy,Intersection
+Mizoram,Some City,January,Wednesday,Hazy,Intersection
+Sikkim,Some City,August,Friday,Rainy,Curve
+Meghalaya,Some City,February,Tuesday,Foggy,Intersection
+Chhattisgarh,Some City,July,Monday,Clear,Intersection
+Gujarat,Surat,December,Thursday,Clear,Intersection
+Chhattisgarh,Some City,October,Saturday,Rainy,Curve
+Assam,Some City,September,Saturday,Clear,Intersection
+Tripura,Some City,July,Thursday,Foggy,Intersection
+Bihar,Some City,January,Thursday,Foggy,Intersection
+Goa,Some City,August,Wednesday,Clear,Intersection
+Mizoram,Some City,June,Tuesday,Stormy,Intersection
+West Bengal,Kolkata,December,Sunday,Hazy,Curve
+Manipur,Some City,August,Sunday,Stormy,Intersection
+Maharashtra,Nagpur,December,Sunday,Clear,Intersection
+Mizoram,Some City,January,Tuesday,Rainy,Curve
+Haryana,Some City,January,Sunday,Clear,Intersection
+Bihar,Some City,December,Tuesday,Rainy,Curve
+Chandigarh,Some City,August,Monday,Foggy,Curve
+Goa,Some City,March,Saturday,Hazy,Curve
+Assam,Some City,August,Sunday,Hazy,Intersection
+Meghalaya,Some City,May,Sunday,Foggy,Intersection
+Odisha,Some City,January,Saturday,Clear,Curve
+Manipur,Some City,February,Thursday,Foggy,Curve
+Maharashtra,Nagpur,April,Wednesday,Rainy,Curve
+Delhi,New Delhi,December,Thursday,Hazy,Curve
+Assam,Some City,September,Friday,Foggy,Curve
+Delhi,Rohini,June,Thursday,Rainy,Curve
+Gujarat,Vadodara,January,Thursday,Hazy,Curve
+Kerala,Some City,October,Friday,Stormy,Intersection
+Puducherry,Some City,August,Sunday,Foggy,Intersection
+Gujarat,Ahmedabad,April,Monday,Rainy,Curve
+Uttarakhand,Some City,July,Wednesday,Foggy,Curve
+Delhi,Rohini,October,Tuesday,Stormy,Curve
+Arunachal Pradesh,Some City,December,Wednesday,Rainy,Curve
+Uttar Pradesh,Varanasi,June,Monday,Stormy,Intersection
+Goa,Some City,March,Saturday,Clear,Curve
+Delhi,Dwarka,June,Tuesday,Hazy,Intersection
+Uttar Pradesh,Lucknow,September,Monday,Rainy,Intersection
+Nagaland,Some City,April,Sunday,Hazy,Intersection
+Karnataka,Mysore,September,Thursday,Foggy,Intersection
+Tripura,Some City,March,Sunday,Rainy,Curve
+Chhattisgarh,Some City,April,Tuesday,Stormy,Curve
+Uttarakhand,Some City,June,Monday,Stormy,Curve
+Arunachal Pradesh,Some City,September,Sunday,Hazy,Intersection
+Rajasthan,Udaipur,April,Tuesday,Hazy,Intersection
+Mizoram,Some City,May,Monday,Clear,Intersection
+Meghalaya,Some City,April,Sunday,Foggy,Intersection
+Tripura,Some City,September,Tuesday,Clear,Intersection
+Mizoram,Some City,April,Thursday,Hazy,Intersection
+Mizoram,Some City,June,Sunday,Hazy,Curve
+Bihar,Some City,March,Monday,Rainy,Intersection
+Jharkhand,Some City,September,Sunday,Clear,Intersection
+Jammu and Kashmir,Some City,March,Friday,Hazy,Curve
+Odisha,Some City,November,Wednesday,Rainy,Curve
+Himachal Pradesh,Some City,July,Saturday,Hazy,Curve
+Jharkhand,Some City,December,Thursday,Foggy,Curve
+Chandigarh,Some City,June,Saturday,Rainy,Intersection
+Telangana,Some City,November,Monday,Rainy,Curve
+Madhya Pradesh,Some City,April,Tuesday,Rainy,Intersection
+Rajasthan,Udaipur,February,Tuesday,Rainy,Intersection
+Punjab,Some City,March,Thursday,Hazy,Intersection
+Chandigarh,Some City,January,Monday,Foggy,Curve
+Jammu and Kashmir,Some City,June,Sunday,Stormy,Curve
+Haryana,Some City,May,Wednesday,Clear,Curve
+Haryana,Some City,May,Sunday,Clear,Curve
+Puducherry,Some City,November,Thursday,Clear,Intersection
+Himachal Pradesh,Some City,May,Tuesday,Foggy,Intersection
+Delhi,Dwarka,March,Thursday,Clear,Intersection
+Jharkhand,Some City,September,Friday,Clear,Intersection
+Jammu and Kashmir,Some City,October,Wednesday,Stormy,Curve
+Rajasthan,Udaipur,September,Friday,Foggy,Intersection
+Punjab,Some City,March,Tuesday,Rainy,Curve
+Sikkim,Some City,March,Monday,Hazy,Curve
+Maharashtra,Mumbai,December,Monday,Stormy,Curve
+Assam,Some City,June,Friday,Clear,Intersection
+Sikkim,Some City,January,Thursday,Stormy,Intersection
+Mizoram,Some City,June,Wednesday,Stormy,Intersection
+Chhattisgarh,Some City,October,Thursday,Rainy,Intersection
+Jharkhand,Some City,September,Thursday,Clear,Curve
+Bihar,Some City,August,Wednesday,Clear,Curve
+Chhattisgarh,Some City,October,Monday,Stormy,Intersection
+Meghalaya,Some City,February,Friday,Rainy,Intersection
+Kerala,Some City,May,Thursday,Clear,Curve
+Kerala,Some City,December,Monday,Stormy,Curve
+Maharashtra,Pune,July,Tuesday,Rainy,Curve
+Mizoram,Some City,March,Friday,Rainy,Intersection
+Meghalaya,Some City,August,Friday,Clear,Intersection
+Gujarat,Surat,November,Sunday,Stormy,Intersection
+Puducherry,Some City,October,Friday,Rainy,Curve
+Uttar Pradesh,Kanpur,March,Friday,Stormy,Intersection
+Meghalaya,Some City,June,Sunday,Hazy,Curve
+Himachal Pradesh,Some City,October,Monday,Stormy,Intersection
+Puducherry,Some City,October,Sunday,Rainy,Intersection
+Gujarat,Surat,May,Tuesday,Clear,Curve
+Tamil Nadu,Coimbatore,September,Thursday,Stormy,Intersection
+Sikkim,Some City,June,Monday,Clear,Curve
+Chandigarh,Some City,July,Thursday,Rainy,Intersection
+Odisha,Some City,March,Friday,Rainy,Curve
+Punjab,Some City,June,Thursday,Foggy,Curve
+Delhi,Dwarka,April,Sunday,Rainy,Curve
+Goa,Some City,April,Friday,Clear,Intersection
+Rajasthan,Jodhpur,May,Thursday,Foggy,Curve
+Manipur,Some City,March,Sunday,Stormy,Intersection
+Odisha,Some City,November,Wednesday,Clear,Curve
+Meghalaya,Some City,November,Monday,Rainy,Curve
+Rajasthan,Udaipur,June,Saturday,Hazy,Intersection
+Maharashtra,Pune,September,Wednesday,Clear,Intersection
+Nagaland,Some City,March,Saturday,Clear,Curve
+Delhi,Dwarka,September,Thursday,Stormy,Curve
+Arunachal Pradesh,Some City,September,Wednesday,Foggy,Intersection
+Arunachal Pradesh,Some City,October,Monday,Clear,Intersection
+Jharkhand,Some City,September,Wednesday,Rainy,Curve
+Meghalaya,Some City,June,Wednesday,Clear,Intersection
+Punjab,Some City,January,Saturday,Rainy,Intersection
+Himachal Pradesh,Some City,December,Wednesday,Hazy,Intersection
+Gujarat,Ahmedabad,October,Monday,Foggy,Curve
+Arunachal Pradesh,Some City,April,Saturday,Hazy,Intersection
+Jharkhand,Some City,June,Wednesday,Stormy,Curve
+Assam,Some City,January,Thursday,Foggy,Intersection
+Maharashtra,Mumbai,February,Monday,Stormy,Intersection
+Telangana,Some City,June,Friday,Foggy,Intersection
+Nagaland,Some City,August,Sunday,Hazy,Curve
+Rajasthan,Jodhpur,August,Wednesday,Stormy,Curve
+Odisha,Some City,May,Wednesday,Stormy,Intersection
+Arunachal Pradesh,Some City,December,Monday,Hazy,Intersection
+Madhya Pradesh,Some City,May,Sunday,Hazy,Curve
+Delhi,Dwarka,February,Thursday,Foggy,Intersection
+Goa,Some City,June,Tuesday,Clear,Curve
+Uttar Pradesh,Kanpur,September,Sunday,Hazy,Intersection
+Mizoram,Some City,August,Sunday,Rainy,Intersection
+Arunachal Pradesh,Some City,November,Tuesday,Hazy,Curve
+Sikkim,Some City,July,Thursday,Rainy,Intersection
+Uttarakhand,Some City,February,Friday,Hazy,Curve
+Uttarakhand,Some City,May,Monday,Stormy,Intersection
+Mizoram,Some City,December,Friday,Clear,Curve
+Sikkim,Some City,September,Wednesday,Stormy,Curve
+Arunachal Pradesh,Some City,July,Wednesday,Rainy,Curve
+Telangana,Some City,May,Thursday,Stormy,Intersection
+Andhra Pradesh,Tirupati,April,Tuesday,Hazy,Intersection
+Andhra Pradesh,Tirupati,May,Tuesday,Hazy,Curve
+Telangana,Some City,October,Friday,Clear,Curve
+Uttar Pradesh,Varanasi,June,Wednesday,Stormy,Intersection
+Mizoram,Some City,May,Friday,Hazy,Intersection
+Nagaland,Some City,August,Tuesday,Hazy,Intersection
+Meghalaya,Some City,April,Thursday,Clear,Intersection
+Arunachal Pradesh,Some City,October,Saturday,Foggy,Curve
+Himachal Pradesh,Some City,August,Tuesday,Stormy,Intersection
+Jammu and Kashmir,Some City,July,Friday,Rainy,Intersection
+Bihar,Some City,December,Friday,Hazy,Intersection
+Goa,Some City,September,Monday,Clear,Curve
+Chandigarh,Some City,August,Friday,Clear,Intersection
+Jharkhand,Some City,February,Tuesday,Hazy,Curve
+Manipur,Some City,February,Thursday,Rainy,Intersection
+Jharkhand,Some City,July,Wednesday,Clear,Curve
+Madhya Pradesh,Some City,April,Wednesday,Rainy,Intersection
+Punjab,Some City,July,Tuesday,Rainy,Curve
+Chhattisgarh,Some City,November,Wednesday,Stormy,Curve
+Madhya Pradesh,Some City,February,Sunday,Hazy,Intersection
+Sikkim,Some City,February,Wednesday,Hazy,Intersection
+Sikkim,Some City,August,Monday,Clear,Curve
+Assam,Some City,November,Friday,Foggy,Intersection
+Puducherry,Some City,April,Wednesday,Foggy,Curve
+Tamil Nadu,Coimbatore,August,Sunday,Clear,Curve
+Chandigarh,Some City,January,Tuesday,Stormy,Intersection
+Uttarakhand,Some City,September,Tuesday,Stormy,Curve
+Chhattisgarh,Some City,May,Monday,Clear,Intersection
+Delhi,Rohini,January,Wednesday,Stormy,Intersection
+Goa,Some City,December,Monday,Hazy,Intersection
+Odisha,Some City,September,Tuesday,Hazy,Curve
+Uttarakhand,Some City,August,Friday,Foggy,Intersection
+Madhya Pradesh,Some City,November,Thursday,Rainy,Curve
+Chhattisgarh,Some City,July,Monday,Hazy,Curve
+Rajasthan,Jodhpur,September,Tuesday,Stormy,Intersection
+Goa,Some City,October,Saturday,Rainy,Curve
+Jharkhand,Some City,October,Tuesday,Clear,Intersection
+Puducherry,Some City,November,Friday,Stormy,Curve
+Bihar,Some City,March,Friday,Hazy,Intersection
+Odisha,Some City,October,Tuesday,Foggy,Intersection
+Andhra Pradesh,Tirupati,April,Thursday,Clear,Intersection
+Tripura,Some City,March,Wednesday,Rainy,Intersection
+Maharashtra,Pune,June,Friday,Rainy,Curve
+Andhra Pradesh,Vijayawada,May,Thursday,Foggy,Intersection
+Bihar,Some City,January,Wednesday,Clear,Intersection
+Assam,Some City,January,Saturday,Hazy,Intersection
+Odisha,Some City,July,Sunday,Hazy,Intersection
+Rajasthan,Jaipur,June,Friday,Rainy,Curve
+Karnataka,Mysore,August,Thursday,Foggy,Intersection
+Sikkim,Some City,November,Monday,Rainy,Intersection
+Chhattisgarh,Some City,September,Monday,Foggy,Curve
+Kerala,Some City,December,Monday,Hazy,Intersection
+Bihar,Some City,May,Wednesday,Foggy,Intersection
+Chandigarh,Some City,December,Sunday,Foggy,Curve
+Tripura,Some City,March,Thursday,Clear,Curve
+Kerala,Some City,March,Wednesday,Clear,Curve
+Delhi,New Delhi,April,Monday,Stormy,Curve
+Nagaland,Some City,December,Monday,Rainy,Curve
+Mizoram,Some City,October,Tuesday,Clear,Intersection
+Mizoram,Some City,September,Tuesday,Stormy,Curve
+Sikkim,Some City,April,Saturday,Foggy,Intersection
+Punjab,Some City,March,Sunday,Hazy,Curve
+Chandigarh,Some City,May,Tuesday,Clear,Curve
+Puducherry,Some City,December,Sunday,Hazy,Curve
+Odisha,Some City,April,Thursday,Foggy,Intersection
+Punjab,Some City,October,Monday,Rainy,Curve
+Arunachal Pradesh,Some City,June,Saturday,Hazy,Intersection
+Jammu and Kashmir,Some City,April,Sunday,Foggy,Intersection
+Chandigarh,Some City,January,Monday,Stormy,Curve
+Gujarat,Vadodara,January,Thursday,Hazy,Intersection
+Delhi,Dwarka,May,Friday,Hazy,Intersection
+Madhya Pradesh,Some City,December,Thursday,Rainy,Curve
+Meghalaya,Some City,October,Saturday,Rainy,Intersection
+Sikkim,Some City,March,Sunday,Rainy,Intersection
+Delhi,New Delhi,August,Wednesday,Foggy,Intersection
+West Bengal,Kolkata,May,Wednesday,Clear,Curve
+West Bengal,Durgapur,July,Saturday,Hazy,Curve
+Chhattisgarh,Some City,May,Friday,Foggy,Curve
+Uttarakhand,Some City,December,Friday,Hazy,Curve
+Tamil Nadu,Madurai,December,Wednesday,Stormy,Curve
+Sikkim,Some City,July,Wednesday,Clear,Curve
+Goa,Some City,June,Friday,Stormy,Intersection
+Puducherry,Some City,July,Friday,Foggy,Intersection
+Meghalaya,Some City,March,Thursday,Foggy,Curve
+Telangana,Some City,November,Thursday,Rainy,Curve
+Mizoram,Some City,July,Wednesday,Rainy,Curve
+Mizoram,Some City,February,Sunday,Foggy,Curve
+Telangana,Some City,December,Sunday,Clear,Intersection
+Chhattisgarh,Some City,January,Saturday,Hazy,Intersection
+Kerala,Some City,July,Saturday,Rainy,Curve
+Delhi,Dwarka,October,Wednesday,Foggy,Intersection
+West Bengal,Siliguri,March,Sunday,Rainy,Curve
+Bihar,Some City,December,Monday,Hazy,Intersection
+Maharashtra,Pune,April,Monday,Rainy,Intersection
+Jammu and Kashmir,Some City,March,Monday,Hazy,Intersection
+Arunachal Pradesh,Some City,July,Friday,Clear,Intersection
+Bihar,Some City,December,Monday,Hazy,Curve
+Gujarat,Ahmedabad,December,Friday,Foggy,Curve
+Maharashtra,Pune,February,Saturday,Rainy,Intersection
+West Bengal,Kolkata,December,Thursday,Stormy,Curve
+Maharashtra,Pune,February,Wednesday,Stormy,Intersection
+Puducherry,Some City,March,Thursday,Hazy,Curve
+Tamil Nadu,Coimbatore,December,Saturday,Hazy,Curve
+Andhra Pradesh,Visakhapatnam,November,Tuesday,Stormy,Intersection
+Kerala,Some City,October,Wednesday,Foggy,Curve
+Andhra Pradesh,Tirupati,April,Monday,Stormy,Intersection
+Goa,Some City,September,Sunday,Clear,Curve
+Chhattisgarh,Some City,April,Tuesday,Rainy,Intersection
+Mizoram,Some City,February,Thursday,Rainy,Intersection
+Uttar Pradesh,Lucknow,November,Tuesday,Clear,Curve
+Kerala,Some City,February,Sunday,Hazy,Curve
+Uttar Pradesh,Varanasi,September,Saturday,Clear,Curve
+Kerala,Some City,February,Monday,Stormy,Intersection
+Odisha,Some City,June,Thursday,Rainy,Curve
+Delhi,Dwarka,October,Tuesday,Hazy,Intersection
+Gujarat,Surat,April,Saturday,Stormy,Curve
+Nagaland,Some City,March,Saturday,Stormy,Curve
+Gujarat,Surat,January,Wednesday,Rainy,Curve
+Mizoram,Some City,August,Monday,Clear,Curve
+Madhya Pradesh,Some City,June,Tuesday,Foggy,Curve
+Meghalaya,Some City,October,Monday,Stormy,Curve
+Madhya Pradesh,Some City,November,Friday,Hazy,Intersection
+Maharashtra,Nagpur,March,Sunday,Clear,Curve
+Assam,Some City,September,Tuesday,Rainy,Intersection
+Tamil Nadu,Madurai,October,Monday,Foggy,Intersection
+Delhi,New Delhi,January,Wednesday,Rainy,Intersection
+Goa,Some City,September,Wednesday,Rainy,Intersection
+Himachal Pradesh,Some City,December,Saturday,Clear,Intersection
+West Bengal,Kolkata,March,Saturday,Hazy,Curve
+Nagaland,Some City,February,Monday,Stormy,Intersection
+Puducherry,Some City,December,Monday,Rainy,Curve
+Jharkhand,Some City,August,Tuesday,Rainy,Intersection
+Telangana,Some City,July,Wednesday,Foggy,Intersection
+Goa,Some City,July,Tuesday,Hazy,Intersection
+Punjab,Some City,August,Wednesday,Rainy,Curve
+Uttar Pradesh,Lucknow,October,Wednesday,Rainy,Curve
+Nagaland,Some City,February,Thursday,Clear,Curve
+Jammu and Kashmir,Some City,October,Tuesday,Rainy,Intersection
+Delhi,Rohini,February,Tuesday,Rainy,Intersection
+Karnataka,Mangalore,March,Friday,Clear,Intersection
+Karnataka,Mangalore,August,Tuesday,Clear,Intersection
+Manipur,Some City,November,Thursday,Foggy,Intersection
+Rajasthan,Jaipur,October,Saturday,Rainy,Intersection
+Tamil Nadu,Madurai,April,Thursday,Clear,Intersection
+Arunachal Pradesh,Some City,January,Friday,Foggy,Intersection
+Uttarakhand,Some City,February,Saturday,Stormy,Curve
+Chhattisgarh,Some City,October,Tuesday,Clear,Intersection
+Sikkim,Some City,August,Sunday,Stormy,Intersection
+West Bengal,Siliguri,October,Sunday,Hazy,Intersection
+Uttarakhand,Some City,August,Saturday,Hazy,Intersection
+Maharashtra,Pune,May,Saturday,Stormy,Intersection
+Manipur,Some City,February,Wednesday,Foggy,Intersection
+Goa,Some City,March,Thursday,Foggy,Curve
+Haryana,Some City,July,Sunday,Hazy,Curve
+Uttar Pradesh,Kanpur,November,Friday,Stormy,Intersection
+Assam,Some City,March,Thursday,Stormy,Intersection
+Nagaland,Some City,January,Thursday,Foggy,Intersection
+Punjab,Some City,September,Sunday,Stormy,Intersection
+Gujarat,Surat,October,Sunday,Hazy,Curve
+Uttarakhand,Some City,December,Friday,Clear,Curve
+Maharashtra,Mumbai,January,Sunday,Foggy,Intersection
+Madhya Pradesh,Some City,August,Sunday,Rainy,Intersection
+Nagaland,Some City,December,Saturday,Stormy,Curve
+Goa,Some City,January,Monday,Stormy,Curve
+Karnataka,Mangalore,January,Wednesday,Foggy,Curve
+Delhi,New Delhi,July,Saturday,Rainy,Intersection
+Tripura,Some City,May,Saturday,Clear,Curve
+Rajasthan,Jodhpur,October,Saturday,Hazy,Intersection
+Uttar Pradesh,Kanpur,July,Thursday,Rainy,Curve
+Puducherry,Some City,August,Thursday,Clear,Intersection
+Rajasthan,Jodhpur,August,Sunday,Stormy,Intersection
+Assam,Some City,March,Saturday,Stormy,Curve
+Uttar Pradesh,Lucknow,March,Tuesday,Rainy,Curve
+Kerala,Some City,June,Thursday,Stormy,Curve
+Telangana,Some City,February,Monday,Clear,Curve
+Madhya Pradesh,Some City,August,Wednesday,Clear,Curve
+Assam,Some City,June,Friday,Foggy,Curve
+Karnataka,Mysore,July,Sunday,Foggy,Curve
+Mizoram,Some City,February,Monday,Foggy,Curve
+Jammu and Kashmir,Some City,February,Monday,Clear,Intersection
+Telangana,Some City,January,Friday,Clear,Intersection
+Andhra Pradesh,Vijayawada,October,Thursday,Foggy,Intersection
+Maharashtra,Pune,December,Wednesday,Rainy,Curve
+Himachal Pradesh,Some City,March,Wednesday,Foggy,Intersection
+Haryana,Some City,March,Sunday,Stormy,Curve
+Jammu and Kashmir,Some City,December,Monday,Stormy,Curve
+Punjab,Some City,August,Sunday,Hazy,Intersection
+Kerala,Some City,October,Tuesday,Hazy,Intersection
+Mizoram,Some City,July,Monday,Rainy,Intersection
+Karnataka,Mysore,August,Saturday,Clear,Curve
+West Bengal,Durgapur,March,Friday,Stormy,Intersection
+Chhattisgarh,Some City,October,Tuesday,Clear,Curve
+Jammu and Kashmir,Some City,November,Tuesday,Stormy,Curve
+Madhya Pradesh,Some City,February,Tuesday,Rainy,Intersection
+Meghalaya,Some City,July,Thursday,Hazy,Curve
+Tamil Nadu,Chennai,March,Sunday,Rainy,Curve
+Goa,Some City,October,Thursday,Rainy,Intersection
+Arunachal Pradesh,Some City,December,Wednesday,Rainy,Intersection
+Delhi,Rohini,January,Friday,Clear,Curve
+Haryana,Some City,March,Wednesday,Rainy,Intersection
+Jammu and Kashmir,Some City,January,Tuesday,Foggy,Intersection
+Chhattisgarh,Some City,January,Friday,Rainy,Curve
+Chandigarh,Some City,March,Sunday,Stormy,Curve
+Odisha,Some City,November,Thursday,Foggy,Curve
+Andhra Pradesh,Vijayawada,August,Thursday,Hazy,Curve
+Kerala,Some City,September,Friday,Rainy,Curve
+Chhattisgarh,Some City,July,Saturday,Clear,Curve
+Manipur,Some City,May,Saturday,Foggy,Intersection
+Uttarakhand,Some City,April,Tuesday,Rainy,Curve
+Manipur,Some City,February,Wednesday,Clear,Curve
+Rajasthan,Jaipur,October,Monday,Hazy,Intersection
+Uttarakhand,Some City,March,Tuesday,Rainy,Intersection
+Tripura,Some City,August,Saturday,Stormy,Curve
+Arunachal Pradesh,Some City,May,Friday,Rainy,Intersection
+Delhi,Dwarka,May,Tuesday,Stormy,Intersection
+Jharkhand,Some City,March,Thursday,Clear,Intersection
+Sikkim,Some City,January,Monday,Rainy,Intersection
+Kerala,Some City,September,Monday,Hazy,Curve
+Arunachal Pradesh,Some City,June,Sunday,Foggy,Curve
+Maharashtra,Mumbai,May,Wednesday,Clear,Curve
+Karnataka,Bangalore,March,Friday,Clear,Curve
+Odisha,Some City,January,Sunday,Hazy,Intersection
+Jharkhand,Some City,May,Sunday,Rainy,Curve
+Assam,Some City,July,Sunday,Rainy,Intersection
+West Bengal,Durgapur,August,Tuesday,Stormy,Curve
+Chandigarh,Some City,July,Sunday,Stormy,Intersection
+Chhattisgarh,Some City,July,Sunday,Foggy,Intersection
+Jammu and Kashmir,Some City,June,Friday,Stormy,Intersection
+Haryana,Some City,August,Thursday,Stormy,Intersection
+Puducherry,Some City,January,Saturday,Clear,Curve
+Nagaland,Some City,August,Thursday,Hazy,Curve
+Jammu and Kashmir,Some City,August,Tuesday,Clear,Curve
+Karnataka,Mysore,February,Sunday,Stormy,Intersection
+Gujarat,Ahmedabad,September,Saturday,Hazy,Intersection
+West Bengal,Siliguri,September,Friday,Rainy,Curve
+Telangana,Some City,June,Sunday,Clear,Intersection
+Andhra Pradesh,Tirupati,December,Friday,Clear,Curve
+Puducherry,Some City,July,Thursday,Foggy,Intersection
+Tamil Nadu,Coimbatore,August,Thursday,Rainy,Curve
+Maharashtra,Nagpur,May,Wednesday,Rainy,Curve
+Bihar,Some City,October,Wednesday,Hazy,Intersection
+Maharashtra,Pune,February,Wednesday,Clear,Intersection
+West Bengal,Durgapur,November,Tuesday,Hazy,Intersection
+Assam,Some City,July,Monday,Hazy,Intersection
+Jharkhand,Some City,October,Friday,Stormy,Curve
+Chhattisgarh,Some City,January,Thursday,Hazy,Curve
+Manipur,Some City,December,Wednesday,Clear,Curve
+Nagaland,Some City,November,Thursday,Foggy,Curve
+Delhi,Dwarka,September,Sunday,Clear,Intersection
+Kerala,Some City,July,Friday,Clear,Intersection
+Maharashtra,Nagpur,March,Monday,Rainy,Curve
+Kerala,Some City,May,Sunday,Foggy,Curve
+Uttarakhand,Some City,January,Friday,Foggy,Intersection
+Tripura,Some City,October,Friday,Foggy,Intersection
+Tamil Nadu,Chennai,May,Wednesday,Rainy,Curve
+Himachal Pradesh,Some City,May,Thursday,Rainy,Intersection
+Punjab,Some City,December,Monday,Clear,Intersection
+Bihar,Some City,June,Tuesday,Clear,Intersection
+Maharashtra,Nagpur,August,Tuesday,Clear,Curve
+Assam,Some City,April,Sunday,Rainy,Intersection
+Karnataka,Mysore,August,Friday,Clear,Curve
+Karnataka,Bangalore,April,Saturday,Stormy,Intersection
+Andhra Pradesh,Vijayawada,January,Wednesday,Foggy,Curve
+Delhi,Rohini,September,Tuesday,Stormy,Curve
+Goa,Some City,October,Sunday,Foggy,Intersection
+Sikkim,Some City,November,Thursday,Stormy,Curve
+Goa,Some City,April,Tuesday,Stormy,Intersection
+Rajasthan,Jaipur,September,Monday,Clear,Intersection
+Andhra Pradesh,Vijayawada,February,Friday,Stormy,Curve
+Jharkhand,Some City,August,Monday,Rainy,Curve
+Punjab,Some City,January,Monday,Rainy,Curve
+Sikkim,Some City,January,Monday,Foggy,Intersection
+Rajasthan,Jaipur,January,Thursday,Foggy,Intersection
+Odisha,Some City,August,Wednesday,Rainy,Curve
+Assam,Some City,January,Sunday,Hazy,Curve
+Manipur,Some City,October,Wednesday,Hazy,Curve
+Sikkim,Some City,August,Wednesday,Clear,Intersection
+Uttar Pradesh,Varanasi,March,Tuesday,Foggy,Curve
+Goa,Some City,January,Tuesday,Stormy,Intersection
+Andhra Pradesh,Visakhapatnam,June,Wednesday,Hazy,Intersection
+Karnataka,Mangalore,April,Wednesday,Rainy,Intersection
+Chandigarh,Some City,November,Sunday,Foggy,Intersection
+Himachal Pradesh,Some City,January,Friday,Rainy,Curve
+Mizoram,Some City,August,Wednesday,Stormy,Intersection
+Bihar,Some City,September,Thursday,Stormy,Intersection
+Puducherry,Some City,June,Tuesday,Rainy,Intersection
+Puducherry,Some City,December,Thursday,Stormy,Curve
+Mizoram,Some City,March,Monday,Foggy,Curve
+Nagaland,Some City,November,Thursday,Foggy,Intersection
+Haryana,Some City,September,Saturday,Foggy,Intersection
+Sikkim,Some City,June,Monday,Stormy,Curve
+Chhattisgarh,Some City,July,Saturday,Hazy,Curve
+Arunachal Pradesh,Some City,July,Wednesday,Rainy,Intersection
+Punjab,Some City,June,Sunday,Hazy,Curve
+Arunachal Pradesh,Some City,September,Friday,Foggy,Curve
+Meghalaya,Some City,April,Saturday,Hazy,Curve
+Puducherry,Some City,October,Friday,Clear,Intersection
+Delhi,New Delhi,June,Tuesday,Hazy,Intersection
+Delhi,Rohini,October,Saturday,Stormy,Intersection
+West Bengal,Siliguri,July,Sunday,Clear,Intersection
+Rajasthan,Jaipur,December,Friday,Clear,Intersection
+Himachal Pradesh,Some City,May,Wednesday,Rainy,Curve
+Andhra Pradesh,Visakhapatnam,November,Monday,Stormy,Intersection
+Tripura,Some City,February,Monday,Stormy,Curve
+Mizoram,Some City,August,Sunday,Stormy,Curve
+Meghalaya,Some City,September,Friday,Clear,Intersection
+Manipur,Some City,October,Thursday,Hazy,Curve
+Meghalaya,Some City,October,Saturday,Hazy,Intersection
+Chandigarh,Some City,May,Sunday,Hazy,Curve
+Maharashtra,Nagpur,April,Friday,Rainy,Intersection
+Karnataka,Mangalore,May,Saturday,Foggy,Curve
+Puducherry,Some City,December,Saturday,Foggy,Curve
+Karnataka,Mysore,February,Friday,Foggy,Curve
+Manipur,Some City,November,Friday,Hazy,Curve
+Odisha,Some City,February,Sunday,Rainy,Curve
+Jammu and Kashmir,Some City,July,Wednesday,Rainy,Intersection
+Delhi,Rohini,June,Saturday,Clear,Intersection
+Tamil Nadu,Madurai,December,Saturday,Hazy,Curve
+Haryana,Some City,January,Tuesday,Rainy,Curve
+Nagaland,Some City,May,Tuesday,Clear,Intersection
+Chandigarh,Some City,September,Tuesday,Rainy,Intersection
+Karnataka,Bangalore,October,Saturday,Rainy,Intersection
+Punjab,Some City,April,Tuesday,Rainy,Intersection
+Sikkim,Some City,June,Wednesday,Rainy,Intersection
+Jharkhand,Some City,March,Tuesday,Foggy,Curve
+Tamil Nadu,Coimbatore,April,Monday,Stormy,Curve
+Madhya Pradesh,Some City,November,Monday,Rainy,Intersection
+Kerala,Some City,August,Saturday,Hazy,Intersection
+Sikkim,Some City,June,Saturday,Hazy,Curve
+Uttar Pradesh,Kanpur,November,Wednesday,Hazy,Curve
+Sikkim,Some City,November,Saturday,Rainy,Curve
+Uttarakhand,Some City,October,Sunday,Stormy,Curve
+Chhattisgarh,Some City,December,Monday,Rainy,Intersection
+Telangana,Some City,March,Sunday,Stormy,Curve
+Chhattisgarh,Some City,August,Thursday,Rainy,Intersection
+Jammu and Kashmir,Some City,February,Friday,Hazy,Intersection
+Himachal Pradesh,Some City,December,Tuesday,Foggy,Intersection
+Tamil Nadu,Chennai,June,Sunday,Hazy,Curve
+Maharashtra,Nagpur,December,Sunday,Foggy,Intersection
+Delhi,New Delhi,February,Wednesday,Stormy,Curve
+Punjab,Some City,July,Wednesday,Hazy,Curve
+Gujarat,Vadodara,April,Tuesday,Hazy,Curve
+Nagaland,Some City,January,Tuesday,Hazy,Curve
+Chandigarh,Some City,March,Friday,Rainy,Intersection
+Sikkim,Some City,March,Tuesday,Hazy,Intersection
+Goa,Some City,September,Friday,Clear,Intersection
+Haryana,Some City,March,Sunday,Stormy,Curve
+Puducherry,Some City,February,Sunday,Stormy,Intersection
+Jharkhand,Some City,September,Wednesday,Stormy,Intersection
+Bihar,Some City,October,Sunday,Hazy,Intersection
+Arunachal Pradesh,Some City,March,Saturday,Hazy,Intersection
+Rajasthan,Udaipur,May,Sunday,Rainy,Intersection
+Delhi,Rohini,March,Tuesday,Foggy,Intersection
+Mizoram,Some City,February,Wednesday,Clear,Curve
+Nagaland,Some City,February,Tuesday,Foggy,Intersection
+Kerala,Some City,August,Wednesday,Hazy,Intersection
+Himachal Pradesh,Some City,July,Monday,Stormy,Curve
+Uttar Pradesh,Kanpur,October,Friday,Foggy,Intersection
+Nagaland,Some City,July,Tuesday,Clear,Curve
+Delhi,Dwarka,April,Wednesday,Foggy,Intersection
+Punjab,Some City,May,Thursday,Foggy,Curve
+West Bengal,Kolkata,November,Friday,Rainy,Curve
+Jharkhand,Some City,July,Sunday,Foggy,Intersection
+Haryana,Some City,March,Wednesday,Rainy,Intersection
+Odisha,Some City,January,Tuesday,Rainy,Curve
+Gujarat,Ahmedabad,July,Wednesday,Rainy,Intersection
+Goa,Some City,May,Friday,Stormy,Intersection
+West Bengal,Siliguri,November,Thursday,Hazy,Curve
+Gujarat,Vadodara,October,Thursday,Hazy,Intersection
+Bihar,Some City,February,Friday,Stormy,Intersection
+Himachal Pradesh,Some City,December,Wednesday,Stormy,Curve
+Chandigarh,Some City,December,Sunday,Stormy,Intersection
+Chhattisgarh,Some City,January,Saturday,Clear,Curve
+Himachal Pradesh,Some City,October,Saturday,Foggy,Intersection
+Arunachal Pradesh,Some City,February,Saturday,Foggy,Curve
+Delhi,Dwarka,August,Tuesday,Clear,Curve
+Karnataka,Mysore,May,Friday,Clear,Intersection
+Haryana,Some City,November,Wednesday,Rainy,Curve
+Puducherry,Some City,April,Friday,Hazy,Intersection
+Mizoram,Some City,May,Thursday,Stormy,Intersection
+Kerala,Some City,March,Thursday,Stormy,Curve
+Uttarakhand,Some City,January,Wednesday,Foggy,Intersection
+Goa,Some City,February,Monday,Foggy,Intersection
+Chandigarh,Some City,January,Saturday,Hazy,Curve
+Haryana,Some City,June,Tuesday,Hazy,Curve
+Haryana,Some City,August,Tuesday,Foggy,Intersection
+Manipur,Some City,November,Sunday,Clear,Intersection
+Arunachal Pradesh,Some City,July,Sunday,Rainy,Intersection
+Punjab,Some City,March,Sunday,Rainy,Intersection
+Tamil Nadu,Madurai,October,Friday,Rainy,Curve
+Assam,Some City,October,Sunday,Foggy,Curve
+Puducherry,Some City,June,Monday,Stormy,Curve
+Jharkhand,Some City,July,Saturday,Foggy,Intersection
+Punjab,Some City,January,Saturday,Clear,Intersection
+Tripura,Some City,January,Wednesday,Rainy,Intersection
+Telangana,Some City,June,Saturday,Clear,Curve
+Nagaland,Some City,September,Thursday,Stormy,Curve
+Bihar,Some City,February,Tuesday,Rainy,Intersection
+Jammu and Kashmir,Some City,August,Saturday,Clear,Intersection
+Mizoram,Some City,February,Thursday,Hazy,Curve
+Delhi,Rohini,March,Saturday,Clear,Curve
+Arunachal Pradesh,Some City,May,Saturday,Hazy,Intersection
+Uttar Pradesh,Kanpur,September,Saturday,Foggy,Curve
+Uttar Pradesh,Kanpur,July,Monday,Clear,Intersection
+Kerala,Some City,August,Sunday,Clear,Curve
+Meghalaya,Some City,March,Tuesday,Stormy,Intersection
+Punjab,Some City,June,Wednesday,Clear,Intersection
+Tripura,Some City,March,Thursday,Stormy,Intersection
+Mizoram,Some City,September,Friday,Stormy,Intersection
+Himachal Pradesh,Some City,December,Tuesday,Stormy,Curve
+Jammu and Kashmir,Some City,January,Tuesday,Stormy,Intersection
+Nagaland,Some City,April,Sunday,Rainy,Intersection
+Manipur,Some City,June,Monday,Hazy,Intersection
+Gujarat,Surat,August,Sunday,Clear,Curve
+Rajasthan,Jaipur,November,Thursday,Rainy,Intersection
+Kerala,Some City,January,Thursday,Hazy,Curve
+Sikkim,Some City,September,Thursday,Hazy,Intersection
+Punjab,Some City,November,Friday,Hazy,Curve
+Delhi,Rohini,October,Saturday,Clear,Intersection
+Jharkhand,Some City,April,Wednesday,Foggy,Curve
+Jharkhand,Some City,December,Wednesday,Clear,Intersection
+Chandigarh,Some City,May,Tuesday,Hazy,Intersection
+Rajasthan,Jodhpur,November,Sunday,Hazy,Intersection
+Delhi,Rohini,December,Wednesday,Foggy,Intersection
+Gujarat,Vadodara,January,Thursday,Hazy,Curve
+Kerala,Some City,December,Monday,Foggy,Curve
+Maharashtra,Mumbai,October,Tuesday,Stormy,Intersection
+Uttar Pradesh,Varanasi,September,Sunday,Stormy,Curve
+Uttar Pradesh,Kanpur,February,Wednesday,Stormy,Intersection
+Bihar,Some City,December,Tuesday,Rainy,Intersection
+Punjab,Some City,April,Sunday,Foggy,Intersection
+Rajasthan,Udaipur,May,Sunday,Stormy,Intersection
+Gujarat,Surat,February,Tuesday,Rainy,Curve
+Odisha,Some City,March,Monday,Rainy,Intersection
+Jharkhand,Some City,August,Tuesday,Hazy,Intersection
+Gujarat,Surat,June,Saturday,Foggy,Intersection
+Bihar,Some City,December,Friday,Foggy,Curve
+Tamil Nadu,Coimbatore,September,Thursday,Hazy,Intersection
+Manipur,Some City,July,Wednesday,Hazy,Intersection
+Arunachal Pradesh,Some City,April,Monday,Stormy,Intersection
+Goa,Some City,April,Saturday,Hazy,Curve
+Jammu and Kashmir,Some City,October,Thursday,Stormy,Intersection
+Manipur,Some City,January,Monday,Hazy,Intersection
+Manipur,Some City,December,Monday,Hazy,Intersection
+Delhi,Rohini,April,Wednesday,Foggy,Curve
+Meghalaya,Some City,December,Wednesday,Foggy,Curve
+Punjab,Some City,January,Wednesday,Stormy,Intersection
+Jharkhand,Some City,June,Sunday,Rainy,Intersection
+Himachal Pradesh,Some City,September,Tuesday,Stormy,Curve
+Jharkhand,Some City,September,Monday,Foggy,Intersection
+Punjab,Some City,June,Tuesday,Hazy,Intersection
+Sikkim,Some City,December,Thursday,Rainy,Curve
+Bihar,Some City,February,Saturday,Foggy,Curve
+Kerala,Some City,March,Wednesday,Stormy,Curve
+Sikkim,Some City,May,Thursday,Stormy,Curve
+Nagaland,Some City,February,Tuesday,Clear,Intersection
+Haryana,Some City,March,Friday,Stormy,Intersection
+Manipur,Some City,April,Saturday,Rainy,Intersection
+Tamil Nadu,Coimbatore,April,Sunday,Hazy,Intersection
+Mizoram,Some City,January,Thursday,Clear,Curve
+Sikkim,Some City,December,Sunday,Stormy,Intersection
+Manipur,Some City,August,Sunday,Stormy,Curve
+Madhya Pradesh,Some City,April,Saturday,Stormy,Intersection
+Himachal Pradesh,Some City,October,Monday,Hazy,Intersection
+Goa,Some City,April,Tuesday,Foggy,Curve
+Telangana,Some City,July,Friday,Rainy,Intersection
+Rajasthan,Jodhpur,March,Monday,Foggy,Intersection
+Meghalaya,Some City,December,Wednesday,Clear,Intersection
+Puducherry,Some City,April,Sunday,Clear,Curve
+Jharkhand,Some City,December,Tuesday,Rainy,Intersection
+Delhi,New Delhi,June,Wednesday,Rainy,Curve
+Punjab,Some City,September,Wednesday,Rainy,Curve
+Uttar Pradesh,Varanasi,October,Saturday,Stormy,Curve
+Telangana,Some City,April,Saturday,Stormy,Intersection
+Mizoram,Some City,September,Saturday,Hazy,Intersection
+Jharkhand,Some City,July,Wednesday,Clear,Intersection
+Uttarakhand,Some City,July,Monday,Hazy,Intersection
+Tripura,Some City,October,Thursday,Hazy,Intersection
+Sikkim,Some City,November,Thursday,Foggy,Intersection
+Odisha,Some City,August,Thursday,Foggy,Curve
+Odisha,Some City,November,Wednesday,Clear,Intersection
+Haryana,Some City,April,Sunday,Rainy,Intersection
+Goa,Some City,July,Thursday,Rainy,Intersection
+Manipur,Some City,April,Thursday,Rainy,Intersection
+Rajasthan,Udaipur,July,Sunday,Clear,Curve
+Puducherry,Some City,January,Thursday,Clear,Curve
+Kerala,Some City,July,Thursday,Rainy,Curve
+Tripura,Some City,September,Wednesday,Stormy,Curve
+Nagaland,Some City,December,Monday,Foggy,Intersection
+Goa,Some City,April,Friday,Rainy,Curve
+Rajasthan,Jodhpur,September,Thursday,Rainy,Intersection
+Meghalaya,Some City,April,Wednesday,Rainy,Curve
+Jammu and Kashmir,Some City,August,Thursday,Foggy,Curve
+Gujarat,Vadodara,November,Friday,Foggy,Curve
+West Bengal,Siliguri,November,Monday,Hazy,Curve
+Meghalaya,Some City,May,Tuesday,Foggy,Intersection
+Nagaland,Some City,September,Friday,Stormy,Intersection
+Jharkhand,Some City,June,Saturday,Hazy,Curve
+Puducherry,Some City,September,Friday,Foggy,Intersection
+Puducherry,Some City,September,Wednesday,Foggy,Curve
+Puducherry,Some City,January,Monday,Foggy,Intersection
+Haryana,Some City,November,Saturday,Clear,Intersection
+Uttarakhand,Some City,June,Monday,Rainy,Curve
+Tripura,Some City,September,Sunday,Stormy,Curve
+Nagaland,Some City,July,Saturday,Rainy,Intersection
+Madhya Pradesh,Some City,April,Monday,Hazy,Intersection
+Mizoram,Some City,April,Wednesday,Clear,Curve
+Nagaland,Some City,September,Tuesday,Clear,Curve
+Chandigarh,Some City,June,Tuesday,Rainy,Curve
+Chhattisgarh,Some City,May,Friday,Rainy,Intersection
+Punjab,Some City,November,Wednesday,Foggy,Intersection
+Madhya Pradesh,Some City,November,Thursday,Hazy,Curve
+Puducherry,Some City,July,Tuesday,Stormy,Curve
+Nagaland,Some City,May,Saturday,Clear,Curve
+Haryana,Some City,July,Friday,Rainy,Intersection
+Sikkim,Some City,October,Sunday,Stormy,Intersection
+Nagaland,Some City,October,Saturday,Rainy,Intersection
+Gujarat,Vadodara,October,Tuesday,Foggy,Curve
+Maharashtra,Nagpur,March,Tuesday,Stormy,Curve
+Madhya Pradesh,Some City,November,Tuesday,Clear,Intersection
+West Bengal,Siliguri,April,Friday,Clear,Curve
+Mizoram,Some City,August,Sunday,Rainy,Curve
+Rajasthan,Udaipur,June,Wednesday,Clear,Curve
+Haryana,Some City,September,Friday,Clear,Intersection
+Bihar,Some City,April,Thursday,Clear,Intersection
+Mizoram,Some City,October,Saturday,Foggy,Intersection
+Tamil Nadu,Madurai,May,Wednesday,Clear,Intersection
+Goa,Some City,October,Tuesday,Rainy,Intersection
+Goa,Some City,November,Wednesday,Stormy,Intersection
+Puducherry,Some City,September,Thursday,Rainy,Intersection
+Tamil Nadu,Madurai,December,Monday,Rainy,Intersection
+Tamil Nadu,Madurai,September,Thursday,Stormy,Intersection
+Nagaland,Some City,June,Wednesday,Stormy,Intersection
+Uttarakhand,Some City,September,Saturday,Foggy,Curve
+Tamil Nadu,Coimbatore,September,Wednesday,Stormy,Intersection
+Punjab,Some City,April,Friday,Rainy,Curve
+Punjab,Some City,May,Friday,Stormy,Intersection
+Himachal Pradesh,Some City,May,Friday,Hazy,Intersection
+Jammu and Kashmir,Some City,May,Saturday,Foggy,Intersection
+Arunachal Pradesh,Some City,December,Wednesday,Foggy,Intersection
+Chhattisgarh,Some City,October,Friday,Foggy,Curve
+Haryana,Some City,December,Sunday,Rainy,Curve
+Assam,Some City,February,Saturday,Rainy,Intersection
+Punjab,Some City,February,Wednesday,Rainy,Curve
+Uttarakhand,Some City,November,Wednesday,Clear,Curve
+Delhi,New Delhi,November,Wednesday,Stormy,Curve
+Maharashtra,Pune,November,Tuesday,Hazy,Intersection
+Himachal Pradesh,Some City,October,Sunday,Clear,Intersection
+Odisha,Some City,September,Sunday,Stormy,Intersection
+Tamil Nadu,Coimbatore,September,Tuesday,Hazy,Intersection
+Odisha,Some City,June,Tuesday,Rainy,Intersection
+Arunachal Pradesh,Some City,January,Thursday,Rainy,Curve
+Himachal Pradesh,Some City,August,Monday,Stormy,Curve
+Tripura,Some City,February,Friday,Stormy,Curve
+Chandigarh,Some City,June,Wednesday,Rainy,Curve
+Meghalaya,Some City,April,Thursday,Foggy,Curve
+Puducherry,Some City,August,Friday,Rainy,Curve
+Jharkhand,Some City,November,Monday,Foggy,Intersection
+Chandigarh,Some City,February,Wednesday,Rainy,Curve
+Jharkhand,Some City,April,Wednesday,Clear,Curve
+Nagaland,Some City,September,Tuesday,Hazy,Curve
+Maharashtra,Mumbai,April,Sunday,Stormy,Curve
+Uttarakhand,Some City,June,Sunday,Stormy,Curve
+Sikkim,Some City,May,Sunday,Hazy,Curve
+Goa,Some City,February,Monday,Foggy,Curve
+Nagaland,Some City,January,Monday,Clear,Intersection
+Kerala,Some City,March,Wednesday,Rainy,Intersection
+Haryana,Some City,October,Wednesday,Clear,Intersection
+Delhi,Rohini,November,Monday,Foggy,Intersection
+Gujarat,Vadodara,March,Friday,Stormy,Curve
+Goa,Some City,May,Wednesday,Rainy,Intersection
+Maharashtra,Pune,October,Thursday,Rainy,Intersection
+Mizoram,Some City,September,Saturday,Foggy,Curve
+Odisha,Some City,October,Monday,Rainy,Intersection
+Uttarakhand,Some City,March,Tuesday,Rainy,Intersection
+Chhattisgarh,Some City,October,Sunday,Foggy,Curve
+Puducherry,Some City,April,Sunday,Rainy,Intersection
+Uttarakhand,Some City,January,Friday,Hazy,Intersection
+Uttarakhand,Some City,August,Monday,Hazy,Intersection
+Odisha,Some City,February,Sunday,Foggy,Intersection
+Rajasthan,Jodhpur,January,Tuesday,Hazy,Curve
+Goa,Some City,November,Tuesday,Hazy,Intersection
+West Bengal,Durgapur,February,Wednesday,Rainy,Curve
+Tamil Nadu,Madurai,November,Friday,Foggy,Curve
+Punjab,Some City,November,Monday,Hazy,Curve
+Delhi,Rohini,February,Friday,Rainy,Intersection
+Jammu and Kashmir,Some City,December,Tuesday,Foggy,Curve
+Rajasthan,Jodhpur,December,Sunday,Hazy,Curve
+West Bengal,Siliguri,April,Monday,Hazy,Curve
+Odisha,Some City,November,Sunday,Clear,Intersection
+Uttar Pradesh,Kanpur,June,Monday,Foggy,Intersection
+Puducherry,Some City,August,Wednesday,Stormy,Intersection
+Himachal Pradesh,Some City,August,Thursday,Rainy,Curve
+Uttar Pradesh,Varanasi,November,Thursday,Rainy,Curve
+Telangana,Some City,October,Sunday,Foggy,Intersection
+Tripura,Some City,October,Saturday,Stormy,Intersection
+Andhra Pradesh,Vijayawada,November,Friday,Hazy,Curve
+Gujarat,Vadodara,October,Thursday,Foggy,Curve
+Maharashtra,Mumbai,January,Friday,Rainy,Intersection
+Delhi,Rohini,March,Saturday,Clear,Intersection
+Telangana,Some City,February,Saturday,Rainy,Curve
+Gujarat,Ahmedabad,April,Thursday,Hazy,Curve
+Rajasthan,Udaipur,March,Thursday,Clear,Intersection
+Tamil Nadu,Coimbatore,December,Friday,Hazy,Intersection
+Mizoram,Some City,January,Monday,Clear,Curve
+Meghalaya,Some City,February,Wednesday,Clear,Curve
+Puducherry,Some City,March,Thursday,Clear,Intersection
+Delhi,New Delhi,August,Tuesday,Hazy,Curve
+Odisha,Some City,December,Thursday,Stormy,Curve
+West Bengal,Siliguri,April,Wednesday,Foggy,Curve
+Madhya Pradesh,Some City,January,Thursday,Foggy,Intersection
+Uttar Pradesh,Lucknow,April,Wednesday,Stormy,Intersection
+Rajasthan,Jaipur,February,Monday,Hazy,Curve
+Karnataka,Mysore,March,Sunday,Foggy,Intersection
+Haryana,Some City,November,Friday,Stormy,Curve
+Haryana,Some City,October,Monday,Rainy,Intersection
+Bihar,Some City,October,Saturday,Clear,Curve
+Assam,Some City,March,Friday,Clear,Intersection
+Assam,Some City,May,Tuesday,Stormy,Intersection
+Chandigarh,Some City,January,Monday,Stormy,Intersection
+Maharashtra,Mumbai,September,Tuesday,Clear,Intersection
+Karnataka,Bangalore,December,Tuesday,Clear,Curve
+Haryana,Some City,October,Monday,Stormy,Curve
+Nagaland,Some City,October,Thursday,Foggy,Intersection
+Goa,Some City,January,Saturday,Foggy,Intersection
+Mizoram,Some City,April,Sunday,Clear,Curve
+Andhra Pradesh,Vijayawada,December,Friday,Rainy,Curve
+Andhra Pradesh,Visakhapatnam,October,Monday,Stormy,Curve
+Delhi,Rohini,July,Friday,Hazy,Curve
+Bihar,Some City,January,Saturday,Foggy,Curve
+Kerala,Some City,December,Sunday,Hazy,Curve
+Delhi,Rohini,January,Wednesday,Hazy,Curve
+Rajasthan,Udaipur,June,Sunday,Clear,Intersection
+Karnataka,Bangalore,March,Tuesday,Hazy,Curve
+Meghalaya,Some City,April,Wednesday,Stormy,Intersection
+Madhya Pradesh,Some City,August,Tuesday,Foggy,Intersection
+Nagaland,Some City,April,Tuesday,Clear,Intersection
+Andhra Pradesh,Visakhapatnam,February,Saturday,Stormy,Intersection
+Manipur,Some City,April,Sunday,Hazy,Curve
+Odisha,Some City,January,Thursday,Hazy,Intersection
+Puducherry,Some City,December,Sunday,Stormy,Intersection
+Mizoram,Some City,March,Monday,Rainy,Intersection
+Chhattisgarh,Some City,May,Saturday,Foggy,Intersection
+Delhi,New Delhi,February,Thursday,Clear,Intersection
+Kerala,Some City,April,Thursday,Rainy,Curve
+Uttarakhand,Some City,December,Friday,Foggy,Intersection
+Punjab,Some City,August,Tuesday,Foggy,Intersection
+Telangana,Some City,November,Tuesday,Foggy,Intersection
+Tamil Nadu,Coimbatore,March,Thursday,Hazy,Curve
+Manipur,Some City,December,Sunday,Hazy,Intersection
+Puducherry,Some City,May,Monday,Foggy,Curve
+Jharkhand,Some City,March,Saturday,Foggy,Curve
+Chandigarh,Some City,February,Wednesday,Clear,Intersection
+Chhattisgarh,Some City,December,Friday,Clear,Curve
+Meghalaya,Some City,June,Wednesday,Rainy,Curve
+Haryana,Some City,August,Sunday,Clear,Intersection
+Punjab,Some City,December,Saturday,Stormy,Curve
+Meghalaya,Some City,December,Thursday,Stormy,Curve
+Goa,Some City,June,Monday,Hazy,Curve
+Goa,Some City,March,Wednesday,Rainy,Intersection
+Puducherry,Some City,October,Wednesday,Clear,Curve
+Telangana,Some City,January,Monday,Foggy,Curve
+Meghalaya,Some City,June,Monday,Hazy,Intersection
+Uttarakhand,Some City,June,Wednesday,Stormy,Curve
+Jammu and Kashmir,Some City,January,Tuesday,Rainy,Curve
+Goa,Some City,February,Tuesday,Clear,Curve
+Puducherry,Some City,April,Thursday,Rainy,Intersection
+Sikkim,Some City,May,Monday,Hazy,Curve
+Uttar Pradesh,Lucknow,July,Monday,Clear,Curve
+Uttarakhand,Some City,June,Sunday,Rainy,Intersection
+Sikkim,Some City,February,Thursday,Rainy,Intersection
+Uttar Pradesh,Kanpur,November,Friday,Clear,Curve
+Telangana,Some City,January,Monday,Hazy,Intersection
+Puducherry,Some City,July,Monday,Hazy,Curve
+Maharashtra,Pune,January,Friday,Hazy,Curve
+Tamil Nadu,Coimbatore,January,Monday,Clear,Intersection
+Chandigarh,Some City,March,Friday,Foggy,Intersection
+Andhra Pradesh,Tirupati,June,Monday,Foggy,Curve
+Chhattisgarh,Some City,August,Sunday,Foggy,Intersection
+Himachal Pradesh,Some City,February,Friday,Hazy,Intersection
+Arunachal Pradesh,Some City,July,Wednesday,Hazy,Curve
+Tamil Nadu,Coimbatore,November,Monday,Foggy,Curve
+Nagaland,Some City,December,Saturday,Foggy,Intersection
+Bihar,Some City,July,Friday,Hazy,Intersection
+Jharkhand,Some City,July,Wednesday,Rainy,Curve
+Mizoram,Some City,December,Saturday,Rainy,Intersection
+Jammu and Kashmir,Some City,March,Monday,Foggy,Intersection
+Jammu and Kashmir,Some City,July,Wednesday,Hazy,Curve
+Uttarakhand,Some City,December,Monday,Rainy,Curve
+Chhattisgarh,Some City,July,Thursday,Clear,Curve
+Bihar,Some City,October,Thursday,Hazy,Curve
+Chandigarh,Some City,January,Thursday,Rainy,Curve
+Andhra Pradesh,Tirupati,October,Thursday,Hazy,Curve
+Haryana,Some City,March,Tuesday,Stormy,Curve
+Manipur,Some City,January,Tuesday,Hazy,Intersection
+Manipur,Some City,August,Sunday,Foggy,Curve
+Odisha,Some City,January,Tuesday,Hazy,Curve
+Chhattisgarh,Some City,December,Tuesday,Rainy,Curve
+Chhattisgarh,Some City,January,Sunday,Stormy,Intersection
+Chhattisgarh,Some City,July,Thursday,Clear,Curve
+Tripura,Some City,September,Thursday,Stormy,Curve
+Delhi,New Delhi,June,Sunday,Clear,Intersection
+Himachal Pradesh,Some City,October,Sunday,Clear,Intersection
+Uttarakhand,Some City,October,Sunday,Clear,Curve
+Delhi,New Delhi,February,Friday,Stormy,Curve
+Punjab,Some City,June,Monday,Rainy,Curve
+Andhra Pradesh,Vijayawada,December,Thursday,Stormy,Curve
+Chhattisgarh,Some City,January,Wednesday,Clear,Intersection
+Nagaland,Some City,July,Thursday,Foggy,Intersection
+Sikkim,Some City,March,Wednesday,Clear,Intersection
+Uttarakhand,Some City,April,Thursday,Rainy,Curve
+Bihar,Some City,August,Sunday,Clear,Intersection
+Goa,Some City,February,Thursday,Rainy,Intersection
+Assam,Some City,October,Sunday,Clear,Intersection
+Jharkhand,Some City,October,Wednesday,Rainy,Curve
+Nagaland,Some City,December,Tuesday,Foggy,Curve
+Andhra Pradesh,Visakhapatnam,May,Saturday,Stormy,Intersection
+Chhattisgarh,Some City,March,Monday,Stormy,Curve
+Madhya Pradesh,Some City,January,Sunday,Clear,Curve
+Nagaland,Some City,August,Saturday,Rainy,Intersection
+Bihar,Some City,May,Sunday,Hazy,Intersection
+Sikkim,Some City,September,Monday,Hazy,Intersection
+Delhi,Dwarka,November,Thursday,Foggy,Intersection
+Kerala,Some City,March,Thursday,Clear,Intersection
+Uttarakhand,Some City,December,Thursday,Stormy,Intersection
+Himachal Pradesh,Some City,March,Saturday,Hazy,Intersection
+Uttarakhand,Some City,April,Saturday,Stormy,Curve
+Haryana,Some City,October,Wednesday,Foggy,Intersection
+Manipur,Some City,April,Monday,Foggy,Intersection
+Rajasthan,Udaipur,October,Saturday,Hazy,Intersection
+Delhi,New Delhi,February,Monday,Clear,Curve
+Jammu and Kashmir,Some City,June,Friday,Rainy,Intersection
+Sikkim,Some City,February,Thursday,Stormy,Intersection
+Maharashtra,Mumbai,October,Thursday,Rainy,Intersection
+Assam,Some City,July,Thursday,Rainy,Intersection
+Madhya Pradesh,Some City,November,Wednesday,Hazy,Curve
+Puducherry,Some City,December,Monday,Foggy,Intersection
+Arunachal Pradesh,Some City,August,Tuesday,Foggy,Curve
+Uttarakhand,Some City,December,Thursday,Rainy,Curve
+Nagaland,Some City,December,Wednesday,Clear,Intersection
+Mizoram,Some City,January,Friday,Hazy,Curve
+Meghalaya,Some City,May,Friday,Foggy,Curve
+Haryana,Some City,October,Monday,Foggy,Curve
+Andhra Pradesh,Tirupati,December,Sunday,Hazy,Curve
+Uttarakhand,Some City,March,Monday,Clear,Curve
+Bihar,Some City,August,Monday,Foggy,Curve
+Bihar,Some City,November,Wednesday,Hazy,Intersection
+Bihar,Some City,May,Saturday,Foggy,Intersection
+Uttar Pradesh,Kanpur,May,Wednesday,Clear,Intersection
+Meghalaya,Some City,January,Saturday,Rainy,Intersection
+Punjab,Some City,August,Wednesday,Hazy,Intersection
+Kerala,Some City,March,Friday,Rainy,Curve
+Chhattisgarh,Some City,October,Wednesday,Rainy,Intersection
+Karnataka,Mangalore,March,Thursday,Rainy,Intersection
+Mizoram,Some City,October,Friday,Foggy,Intersection
+Chhattisgarh,Some City,March,Tuesday,Clear,Curve
+Bihar,Some City,August,Sunday,Rainy,Intersection
+Arunachal Pradesh,Some City,November,Monday,Stormy,Curve
+Haryana,Some City,September,Wednesday,Rainy,Curve
+Bihar,Some City,March,Thursday,Hazy,Curve
+Telangana,Some City,October,Friday,Hazy,Intersection
+Goa,Some City,July,Friday,Foggy,Intersection
+West Bengal,Durgapur,September,Friday,Hazy,Curve
+West Bengal,Siliguri,November,Friday,Stormy,Curve
+Delhi,Dwarka,December,Tuesday,Hazy,Intersection
+Uttarakhand,Some City,May,Saturday,Rainy,Intersection
+Meghalaya,Some City,July,Saturday,Rainy,Intersection
+Uttar Pradesh,Kanpur,April,Sunday,Clear,Curve
+Arunachal Pradesh,Some City,November,Tuesday,Stormy,Curve
+Tripura,Some City,January,Monday,Clear,Curve
+Andhra Pradesh,Visakhapatnam,August,Wednesday,Hazy,Curve
+Telangana,Some City,July,Wednesday,Clear,Curve
+Assam,Some City,November,Monday,Clear,Curve
+Maharashtra,Mumbai,November,Wednesday,Clear,Intersection
+Jammu and Kashmir,Some City,September,Monday,Foggy,Intersection
+Chandigarh,Some City,October,Tuesday,Hazy,Curve
+Jharkhand,Some City,August,Friday,Foggy,Curve
+Uttarakhand,Some City,February,Wednesday,Foggy,Intersection
+Sikkim,Some City,August,Wednesday,Hazy,Curve
+Assam,Some City,May,Thursday,Stormy,Intersection
+Assam,Some City,June,Saturday,Stormy,Curve
+Andhra Pradesh,Tirupati,October,Tuesday,Rainy,Intersection
+Goa,Some City,March,Thursday,Hazy,Intersection
+Himachal Pradesh,Some City,November,Monday,Foggy,Intersection
+Puducherry,Some City,January,Sunday,Hazy,Intersection
+Puducherry,Some City,October,Thursday,Clear,Intersection
+Puducherry,Some City,May,Saturday,Rainy,Intersection
+Jammu and Kashmir,Some City,July,Friday,Stormy,Intersection
+Uttarakhand,Some City,April,Friday,Clear,Intersection
+Punjab,Some City,October,Sunday,Stormy,Intersection
+Rajasthan,Udaipur,April,Saturday,Stormy,Intersection
+Rajasthan,Jaipur,August,Friday,Foggy,Curve
+Arunachal Pradesh,Some City,August,Wednesday,Stormy,Intersection
+Punjab,Some City,October,Tuesday,Stormy,Intersection
+Himachal Pradesh,Some City,July,Tuesday,Clear,Curve
+Kerala,Some City,June,Wednesday,Stormy,Intersection
+Uttarakhand,Some City,March,Saturday,Clear,Intersection
+Chhattisgarh,Some City,April,Tuesday,Stormy,Curve
+Rajasthan,Jaipur,March,Sunday,Hazy,Intersection
+Kerala,Some City,August,Monday,Rainy,Curve
+Tamil Nadu,Coimbatore,August,Friday,Foggy,Intersection
+Jharkhand,Some City,October,Monday,Foggy,Curve
+Rajasthan,Jodhpur,November,Thursday,Stormy,Curve
+Goa,Some City,August,Thursday,Rainy,Intersection
+Mizoram,Some City,December,Sunday,Hazy,Curve
+Kerala,Some City,July,Sunday,Rainy,Intersection
+Bihar,Some City,January,Wednesday,Stormy,Curve
+Kerala,Some City,April,Saturday,Foggy,Intersection
+Sikkim,Some City,June,Friday,Clear,Intersection
+Meghalaya,Some City,January,Monday,Rainy,Curve
+Uttarakhand,Some City,July,Sunday,Foggy,Intersection
+Sikkim,Some City,May,Monday,Clear,Curve
+Kerala,Some City,May,Saturday,Clear,Intersection
+Uttarakhand,Some City,September,Wednesday,Hazy,Intersection
+Maharashtra,Nagpur,January,Thursday,Foggy,Intersection
+Goa,Some City,April,Saturday,Rainy,Intersection
+Uttar Pradesh,Lucknow,December,Saturday,Hazy,Curve
+Rajasthan,Udaipur,October,Wednesday,Rainy,Intersection
+Telangana,Some City,January,Monday,Hazy,Curve
+Assam,Some City,October,Monday,Rainy,Curve
+Tripura,Some City,April,Monday,Foggy,Intersection
+Andhra Pradesh,Vijayawada,March,Tuesday,Foggy,Curve
+Karnataka,Bangalore,August,Friday,Rainy,Curve
+Sikkim,Some City,July,Friday,Stormy,Intersection
+Manipur,Some City,March,Thursday,Hazy,Intersection
+Punjab,Some City,August,Wednesday,Stormy,Curve
+Maharashtra,Mumbai,June,Monday,Clear,Curve
+Rajasthan,Jaipur,February,Monday,Foggy,Curve
+Odisha,Some City,May,Sunday,Stormy,Intersection
+Himachal Pradesh,Some City,February,Saturday,Hazy,Curve
+Arunachal Pradesh,Some City,October,Saturday,Rainy,Curve
+Meghalaya,Some City,June,Thursday,Hazy,Intersection
+Tamil Nadu,Chennai,September,Sunday,Stormy,Intersection
+Gujarat,Surat,February,Monday,Foggy,Intersection
+Odisha,Some City,December,Friday,Rainy,Intersection
+Jammu and Kashmir,Some City,November,Sunday,Rainy,Intersection
+Telangana,Some City,August,Saturday,Stormy,Curve
+Arunachal Pradesh,Some City,August,Monday,Stormy,Intersection
+Jharkhand,Some City,September,Sunday,Clear,Curve
+Andhra Pradesh,Tirupati,March,Thursday,Foggy,Curve
+Bihar,Some City,May,Saturday,Clear,Intersection
+Gujarat,Ahmedabad,March,Wednesday,Hazy,Intersection
+Sikkim,Some City,January,Wednesday,Foggy,Curve
+Telangana,Some City,February,Sunday,Foggy,Intersection
+West Bengal,Siliguri,July,Tuesday,Rainy,Intersection
+Bihar,Some City,April,Saturday,Foggy,Intersection
+Himachal Pradesh,Some City,July,Wednesday,Stormy,Curve
+Himachal Pradesh,Some City,October,Sunday,Foggy,Intersection
+Tamil Nadu,Coimbatore,January,Friday,Foggy,Intersection
+Chhattisgarh,Some City,December,Saturday,Rainy,Curve
+Mizoram,Some City,December,Monday,Foggy,Intersection
+Haryana,Some City,May,Thursday,Stormy,Intersection
+Tamil Nadu,Chennai,April,Friday,Foggy,Curve
+Uttar Pradesh,Kanpur,December,Friday,Clear,Curve
+Gujarat,Surat,March,Friday,Clear,Intersection
+Uttar Pradesh,Kanpur,June,Wednesday,Rainy,Curve
+Delhi,Dwarka,June,Sunday,Rainy,Intersection
+Kerala,Some City,May,Monday,Rainy,Curve
+Tripura,Some City,August,Friday,Stormy,Curve
+Telangana,Some City,May,Sunday,Stormy,Curve
+Goa,Some City,October,Wednesday,Foggy,Curve
+Kerala,Some City,September,Friday,Rainy,Curve
+Arunachal Pradesh,Some City,April,Thursday,Stormy,Intersection
+Manipur,Some City,June,Sunday,Stormy,Curve
+Sikkim,Some City,June,Friday,Foggy,Curve
+Haryana,Some City,May,Friday,Foggy,Intersection
+Maharashtra,Mumbai,April,Friday,Stormy,Curve
+Chandigarh,Some City,November,Wednesday,Hazy,Curve
+Tripura,Some City,February,Monday,Hazy,Curve
+Punjab,Some City,March,Sunday,Stormy,Curve
+Jharkhand,Some City,February,Tuesday,Clear,Intersection
+Delhi,New Delhi,September,Monday,Foggy,Intersection
+Karnataka,Mysore,December,Friday,Hazy,Curve
+Rajasthan,Udaipur,August,Sunday,Hazy,Curve
+Jammu and Kashmir,Some City,March,Wednesday,Hazy,Intersection
+Assam,Some City,August,Wednesday,Rainy,Intersection
+Goa,Some City,December,Friday,Foggy,Intersection
+Andhra Pradesh,Vijayawada,October,Wednesday,Hazy,Intersection
+Maharashtra,Pune,June,Monday,Hazy,Intersection
+Rajasthan,Jodhpur,December,Monday,Rainy,Curve
+Chandigarh,Some City,February,Monday,Hazy,Intersection
+Kerala,Some City,February,Monday,Hazy,Intersection
+Telangana,Some City,November,Monday,Foggy,Intersection
+Telangana,Some City,September,Monday,Foggy,Intersection
+Punjab,Some City,September,Saturday,Hazy,Intersection
+Bihar,Some City,February,Monday,Rainy,Curve
+Uttar Pradesh,Lucknow,September,Saturday,Foggy,Intersection
+Goa,Some City,April,Thursday,Clear,Curve
+Nagaland,Some City,January,Friday,Clear,Intersection
+Tamil Nadu,Madurai,December,Tuesday,Stormy,Curve
+Uttarakhand,Some City,June,Tuesday,Foggy,Curve
+Meghalaya,Some City,February,Wednesday,Stormy,Intersection
+Madhya Pradesh,Some City,February,Friday,Clear,Intersection
+Sikkim,Some City,July,Wednesday,Hazy,Intersection
+Delhi,New Delhi,February,Wednesday,Hazy,Intersection
+West Bengal,Durgapur,January,Monday,Clear,Curve
+Kerala,Some City,January,Saturday,Stormy,Curve
+Uttarakhand,Some City,August,Thursday,Hazy,Intersection
+Bihar,Some City,November,Monday,Rainy,Curve
+Manipur,Some City,April,Saturday,Stormy,Intersection
+Sikkim,Some City,March,Saturday,Foggy,Curve
+Kerala,Some City,June,Saturday,Stormy,Intersection
+Maharashtra,Mumbai,April,Monday,Clear,Intersection
+Chhattisgarh,Some City,October,Saturday,Hazy,Curve
+Jammu and Kashmir,Some City,May,Wednesday,Foggy,Curve
+Gujarat,Vadodara,November,Friday,Clear,Intersection
+Himachal Pradesh,Some City,May,Monday,Rainy,Intersection
+Gujarat,Ahmedabad,June,Monday,Hazy,Curve
+Andhra Pradesh,Vijayawada,December,Thursday,Stormy,Curve
+Jammu and Kashmir,Some City,October,Monday,Hazy,Curve
+Mizoram,Some City,June,Thursday,Rainy,Curve
+Maharashtra,Mumbai,December,Monday,Rainy,Curve
+Punjab,Some City,February,Friday,Clear,Intersection
+Uttar Pradesh,Varanasi,October,Saturday,Foggy,Intersection
+Chhattisgarh,Some City,September,Friday,Rainy,Intersection
+Jharkhand,Some City,March,Friday,Rainy,Curve
+Sikkim,Some City,September,Wednesday,Rainy,Intersection
+Punjab,Some City,September,Thursday,Rainy,Curve
+West Bengal,Kolkata,January,Saturday,Hazy,Curve
+Tripura,Some City,August,Thursday,Foggy,Curve
+Andhra Pradesh,Tirupati,July,Sunday,Hazy,Curve
+Maharashtra,Nagpur,July,Wednesday,Rainy,Curve
+Andhra Pradesh,Visakhapatnam,December,Thursday,Clear,Intersection
+Meghalaya,Some City,June,Wednesday,Rainy,Curve
+Manipur,Some City,July,Friday,Hazy,Curve
+Karnataka,Mysore,June,Friday,Clear,Intersection
+Uttar Pradesh,Kanpur,October,Saturday,Stormy,Intersection
+Meghalaya,Some City,May,Monday,Rainy,Intersection
+Manipur,Some City,January,Wednesday,Stormy,Curve
+Andhra Pradesh,Tirupati,November,Saturday,Rainy,Curve
+Himachal Pradesh,Some City,March,Saturday,Clear,Curve
+Uttar Pradesh,Lucknow,February,Monday,Stormy,Intersection
+Tamil Nadu,Coimbatore,June,Friday,Stormy,Curve
+Punjab,Some City,September,Monday,Rainy,Curve
+Uttar Pradesh,Lucknow,February,Monday,Hazy,Intersection
+Rajasthan,Jaipur,February,Friday,Hazy,Curve
+Jammu and Kashmir,Some City,April,Friday,Hazy,Intersection
+Odisha,Some City,October,Friday,Rainy,Intersection
+Rajasthan,Jaipur,May,Monday,Hazy,Curve
+Bihar,Some City,November,Tuesday,Clear,Intersection
+Delhi,New Delhi,December,Friday,Stormy,Curve
+Manipur,Some City,February,Sunday,Rainy,Curve
+Jammu and Kashmir,Some City,April,Friday,Rainy,Intersection
+West Bengal,Kolkata,July,Wednesday,Hazy,Curve
+Maharashtra,Pune,October,Wednesday,Hazy,Intersection
+Mizoram,Some City,May,Sunday,Clear,Intersection
+Bihar,Some City,September,Monday,Foggy,Intersection
+Sikkim,Some City,November,Wednesday,Clear,Curve
+Karnataka,Mysore,March,Thursday,Hazy,Intersection
+Sikkim,Some City,January,Monday,Hazy,Intersection
+Nagaland,Some City,October,Thursday,Stormy,Intersection
+Chhattisgarh,Some City,February,Wednesday,Stormy,Curve
+Gujarat,Surat,January,Friday,Rainy,Curve
+Gujarat,Vadodara,September,Monday,Clear,Curve
+Bihar,Some City,September,Tuesday,Hazy,Curve
+Rajasthan,Jodhpur,January,Tuesday,Clear,Intersection
+Rajasthan,Jodhpur,December,Monday,Clear,Curve
+Mizoram,Some City,January,Tuesday,Stormy,Curve
+Uttar Pradesh,Kanpur,February,Sunday,Foggy,Curve
+Tamil Nadu,Chennai,September,Wednesday,Hazy,Curve
+Tamil Nadu,Chennai,February,Friday,Rainy,Intersection
+Sikkim,Some City,July,Tuesday,Stormy,Curve
+Uttar Pradesh,Lucknow,November,Wednesday,Rainy,Intersection
+West Bengal,Siliguri,April,Sunday,Rainy,Intersection
+Haryana,Some City,December,Friday,Stormy,Intersection
+Puducherry,Some City,January,Friday,Clear,Intersection
+Gujarat,Vadodara,February,Monday,Hazy,Intersection
+Puducherry,Some City,June,Thursday,Foggy,Curve
+Rajasthan,Udaipur,November,Friday,Hazy,Intersection
+Uttarakhand,Some City,June,Wednesday,Stormy,Curve
+Assam,Some City,January,Saturday,Stormy,Curve
+Karnataka,Mysore,April,Sunday,Stormy,Intersection
+Goa,Some City,April,Friday,Foggy,Intersection
+Madhya Pradesh,Some City,July,Sunday,Clear,Intersection
+Goa,Some City,December,Friday,Rainy,Curve
+West Bengal,Durgapur,February,Friday,Hazy,Curve
+Punjab,Some City,June,Wednesday,Foggy,Curve
+Sikkim,Some City,March,Monday,Foggy,Intersection
+Madhya Pradesh,Some City,November,Saturday,Clear,Intersection
+Delhi,New Delhi,April,Wednesday,Clear,Curve
+Uttarakhand,Some City,September,Saturday,Foggy,Intersection
+Uttarakhand,Some City,July,Saturday,Stormy,Intersection
+Odisha,Some City,August,Thursday,Clear,Intersection
+Goa,Some City,March,Sunday,Clear,Intersection
+Telangana,Some City,August,Saturday,Hazy,Intersection
+Tamil Nadu,Chennai,June,Saturday,Foggy,Intersection
+Gujarat,Surat,March,Sunday,Clear,Intersection
+Puducherry,Some City,March,Wednesday,Clear,Intersection
+Uttarakhand,Some City,October,Friday,Stormy,Curve
+Assam,Some City,June,Tuesday,Stormy,Curve
+Nagaland,Some City,December,Thursday,Foggy,Curve
+Sikkim,Some City,February,Monday,Rainy,Curve
+Assam,Some City,December,Sunday,Hazy,Intersection
+Nagaland,Some City,August,Wednesday,Foggy,Intersection
+Goa,Some City,January,Friday,Foggy,Intersection
+West Bengal,Siliguri,December,Friday,Stormy,Curve
+Madhya Pradesh,Some City,July,Monday,Rainy,Curve
+Sikkim,Some City,July,Wednesday,Hazy,Curve
+Rajasthan,Jaipur,December,Wednesday,Foggy,Curve
+Jammu and Kashmir,Some City,April,Wednesday,Hazy,Curve
+Himachal Pradesh,Some City,April,Friday,Rainy,Intersection
+Tripura,Some City,June,Friday,Stormy,Intersection
+Goa,Some City,February,Saturday,Clear,Intersection
+Telangana,Some City,May,Monday,Hazy,Curve
+Meghalaya,Some City,December,Tuesday,Clear,Intersection
+Tamil Nadu,Madurai,April,Friday,Rainy,Intersection
+Sikkim,Some City,April,Tuesday,Rainy,Curve
+Goa,Some City,October,Saturday,Stormy,Curve
+Karnataka,Mangalore,February,Thursday,Stormy,Intersection
+Delhi,New Delhi,February,Tuesday,Clear,Intersection
+Andhra Pradesh,Tirupati,June,Tuesday,Clear,Intersection
+Himachal Pradesh,Some City,July,Tuesday,Rainy,Intersection
+Uttarakhand,Some City,April,Sunday,Clear,Intersection
+Nagaland,Some City,March,Friday,Foggy,Intersection
+Chandigarh,Some City,September,Thursday,Foggy,Intersection
+Karnataka,Mysore,January,Saturday,Rainy,Intersection
+Haryana,Some City,June,Friday,Rainy,Intersection
+Jammu and Kashmir,Some City,August,Monday,Foggy,Intersection
+Maharashtra,Mumbai,July,Saturday,Foggy,Intersection
+Kerala,Some City,September,Tuesday,Stormy,Intersection
+Himachal Pradesh,Some City,July,Thursday,Foggy,Curve
+Puducherry,Some City,May,Thursday,Clear,Curve
+Telangana,Some City,March,Monday,Stormy,Curve
+Mizoram,Some City,September,Saturday,Foggy,Curve
+Uttarakhand,Some City,September,Saturday,Clear,Intersection
+Andhra Pradesh,Tirupati,May,Friday,Hazy,Intersection
+Chandigarh,Some City,July,Thursday,Foggy,Intersection
+Gujarat,Vadodara,February,Monday,Clear,Curve
+Telangana,Some City,August,Friday,Foggy,Curve
+Assam,Some City,November,Wednesday,Clear,Intersection
+Himachal Pradesh,Some City,September,Wednesday,Rainy,Curve
+Sikkim,Some City,July,Monday,Stormy,Curve
+Jammu and Kashmir,Some City,June,Thursday,Hazy,Curve
+Rajasthan,Udaipur,September,Saturday,Stormy,Curve
+Kerala,Some City,September,Saturday,Clear,Curve
+Chhattisgarh,Some City,December,Monday,Foggy,Intersection
+Arunachal Pradesh,Some City,October,Thursday,Hazy,Intersection
+Odisha,Some City,July,Saturday,Hazy,Intersection
+Uttar Pradesh,Kanpur,November,Sunday,Foggy,Curve
+Mizoram,Some City,April,Friday,Hazy,Intersection
+Himachal Pradesh,Some City,February,Friday,Hazy,Curve
+Andhra Pradesh,Vijayawada,October,Wednesday,Rainy,Intersection
+Arunachal Pradesh,Some City,April,Tuesday,Rainy,Curve
+Rajasthan,Jaipur,June,Sunday,Rainy,Intersection
+Assam,Some City,February,Tuesday,Stormy,Intersection
+Karnataka,Mysore,December,Monday,Foggy,Curve
+Bihar,Some City,January,Saturday,Hazy,Curve
+Gujarat,Surat,January,Friday,Clear,Intersection
+Nagaland,Some City,November,Saturday,Clear,Curve
+Nagaland,Some City,March,Saturday,Clear,Intersection
+Jammu and Kashmir,Some City,August,Monday,Stormy,Intersection
+Telangana,Some City,March,Wednesday,Hazy,Curve
+Assam,Some City,December,Wednesday,Foggy,Curve
+Goa,Some City,August,Wednesday,Rainy,Curve
+Mizoram,Some City,August,Monday,Hazy,Curve
+Meghalaya,Some City,July,Monday,Foggy,Intersection
+Delhi,Dwarka,July,Friday,Clear,Intersection
+West Bengal,Kolkata,February,Sunday,Stormy,Curve
+Bihar,Some City,May,Monday,Foggy,Intersection
+Rajasthan,Jaipur,April,Sunday,Clear,Curve
+Madhya Pradesh,Some City,September,Tuesday,Clear,Intersection
+West Bengal,Kolkata,November,Saturday,Stormy,Curve
+Himachal Pradesh,Some City,July,Tuesday,Rainy,Intersection
+Chhattisgarh,Some City,May,Friday,Foggy,Curve
+Meghalaya,Some City,May,Saturday,Foggy,Curve
+Jharkhand,Some City,December,Friday,Hazy,Curve
+Goa,Some City,April,Monday,Stormy,Curve
+Madhya Pradesh,Some City,January,Thursday,Foggy,Curve
+Puducherry,Some City,August,Saturday,Stormy,Curve
+Punjab,Some City,March,Sunday,Rainy,Intersection
+Kerala,Some City,December,Thursday,Clear,Curve
+Chandigarh,Some City,March,Saturday,Stormy,Intersection
+Odisha,Some City,March,Thursday,Hazy,Intersection
+Maharashtra,Pune,March,Thursday,Hazy,Intersection
+Chandigarh,Some City,October,Monday,Clear,Intersection
+Manipur,Some City,March,Friday,Stormy,Curve
+Jharkhand,Some City,September,Thursday,Hazy,Curve
+Odisha,Some City,November,Sunday,Rainy,Curve
+Maharashtra,Nagpur,June,Thursday,Foggy,Intersection
+Puducherry,Some City,March,Tuesday,Foggy,Intersection
+Puducherry,Some City,August,Tuesday,Foggy,Curve
+Puducherry,Some City,January,Thursday,Foggy,Intersection
+Haryana,Some City,February,Saturday,Hazy,Intersection
+Meghalaya,Some City,August,Friday,Rainy,Intersection
+Uttarakhand,Some City,July,Sunday,Rainy,Curve
+Madhya Pradesh,Some City,June,Sunday,Stormy,Curve
+Nagaland,Some City,July,Thursday,Rainy,Curve
+Kerala,Some City,October,Monday,Rainy,Curve
+Puducherry,Some City,November,Friday,Stormy,Curve
+West Bengal,Kolkata,September,Wednesday,Foggy,Intersection
+Manipur,Some City,November,Saturday,Clear,Curve
+Manipur,Some City,January,Saturday,Clear,Intersection
+Odisha,Some City,January,Friday,Foggy,Curve
+West Bengal,Durgapur,November,Friday,Foggy,Curve
+Sikkim,Some City,May,Tuesday,Foggy,Intersection
+Nagaland,Some City,December,Wednesday,Clear,Intersection
+Jammu and Kashmir,Some City,March,Thursday,Hazy,Curve
+Karnataka,Mangalore,May,Thursday,Stormy,Intersection
+Uttar Pradesh,Varanasi,September,Sunday,Rainy,Curve
+Madhya Pradesh,Some City,August,Saturday,Clear,Intersection
+Mizoram,Some City,March,Thursday,Clear,Intersection
+Uttarakhand,Some City,September,Wednesday,Rainy,Curve
+Andhra Pradesh,Vijayawada,June,Monday,Foggy,Curve
+Gujarat,Vadodara,September,Thursday,Rainy,Curve
+Chhattisgarh,Some City,July,Saturday,Foggy,Intersection
+West Bengal,Durgapur,May,Saturday,Clear,Curve
+Uttar Pradesh,Lucknow,October,Friday,Clear,Intersection
+Tamil Nadu,Coimbatore,September,Friday,Hazy,Intersection
+Gujarat,Ahmedabad,July,Saturday,Stormy,Intersection
+Mizoram,Some City,October,Thursday,Clear,Intersection
+Mizoram,Some City,August,Saturday,Foggy,Curve
+West Bengal,Durgapur,May,Tuesday,Hazy,Intersection
+Karnataka,Mangalore,November,Monday,Hazy,Curve
+Chhattisgarh,Some City,June,Tuesday,Rainy,Curve
+Uttar Pradesh,Lucknow,October,Monday,Foggy,Curve
+Karnataka,Mysore,July,Tuesday,Rainy,Curve
+Haryana,Some City,April,Saturday,Rainy,Curve
+Delhi,New Delhi,December,Thursday,Hazy,Intersection
+Tamil Nadu,Madurai,June,Thursday,Stormy,Intersection
+Odisha,Some City,February,Tuesday,Clear,Intersection
+Meghalaya,Some City,July,Thursday,Stormy,Intersection
+Manipur,Some City,January,Friday,Stormy,Curve
+Delhi,New Delhi,July,Saturday,Clear,Intersection
+Kerala,Some City,July,Friday,Clear,Curve
+Puducherry,Some City,November,Monday,Foggy,Intersection
+Andhra Pradesh,Vijayawada,November,Sunday,Rainy,Curve
+Punjab,Some City,August,Wednesday,Stormy,Intersection
+Punjab,Some City,March,Sunday,Clear,Intersection
+Rajasthan,Udaipur,August,Monday,Stormy,Curve
+Madhya Pradesh,Some City,January,Monday,Rainy,Intersection
+Telangana,Some City,June,Monday,Foggy,Intersection
+Tripura,Some City,July,Monday,Hazy,Curve
+Nagaland,Some City,August,Saturday,Hazy,Intersection
+Manipur,Some City,March,Saturday,Rainy,Curve
+Gujarat,Vadodara,August,Wednesday,Clear,Intersection
+Chandigarh,Some City,September,Thursday,Stormy,Intersection
+Meghalaya,Some City,January,Thursday,Rainy,Curve
+Meghalaya,Some City,October,Friday,Stormy,Curve
+Uttarakhand,Some City,January,Monday,Clear,Intersection
+Arunachal Pradesh,Some City,October,Friday,Clear,Intersection
+Jammu and Kashmir,Some City,September,Saturday,Clear,Curve
+Madhya Pradesh,Some City,February,Friday,Rainy,Curve
+Andhra Pradesh,Visakhapatnam,November,Friday,Clear,Intersection
+Bihar,Some City,January,Tuesday,Clear,Intersection
+Odisha,Some City,September,Saturday,Foggy,Intersection
+Gujarat,Vadodara,August,Saturday,Clear,Intersection
+Uttarakhand,Some City,February,Monday,Rainy,Curve
+Uttarakhand,Some City,October,Thursday,Rainy,Intersection
+Tamil Nadu,Chennai,October,Sunday,Rainy,Curve
+Nagaland,Some City,September,Saturday,Rainy,Curve
+Manipur,Some City,May,Tuesday,Hazy,Intersection
+Uttarakhand,Some City,June,Saturday,Foggy,Intersection
+Maharashtra,Mumbai,February,Sunday,Rainy,Intersection
+Karnataka,Bangalore,December,Thursday,Stormy,Curve
+Chandigarh,Some City,April,Thursday,Foggy,Curve
+Uttarakhand,Some City,June,Tuesday,Foggy,Curve
+Haryana,Some City,June,Wednesday,Hazy,Curve
+Haryana,Some City,June,Sunday,Clear,Curve
+Sikkim,Some City,April,Wednesday,Rainy,Curve
+Himachal Pradesh,Some City,March,Tuesday,Clear,Intersection
+Haryana,Some City,October,Wednesday,Stormy,Curve
+Odisha,Some City,December,Sunday,Stormy,Curve
+Puducherry,Some City,October,Wednesday,Rainy,Intersection
+Jharkhand,Some City,January,Monday,Stormy,Intersection
+Bihar,Some City,December,Sunday,Hazy,Intersection
+Bihar,Some City,August,Friday,Foggy,Intersection
+Assam,Some City,January,Thursday,Stormy,Intersection
+Odisha,Some City,April,Sunday,Rainy,Curve
+Goa,Some City,January,Thursday,Rainy,Curve
+West Bengal,Siliguri,October,Wednesday,Stormy,Curve
+Delhi,Rohini,February,Tuesday,Hazy,Intersection
+Jammu and Kashmir,Some City,February,Sunday,Foggy,Curve
+Himachal Pradesh,Some City,August,Tuesday,Rainy,Curve
+Jammu and Kashmir,Some City,June,Tuesday,Stormy,Curve
+Uttar Pradesh,Varanasi,February,Tuesday,Hazy,Curve
+Manipur,Some City,March,Friday,Rainy,Intersection
+Puducherry,Some City,March,Sunday,Clear,Intersection
+Odisha,Some City,December,Friday,Hazy,Intersection
+Gujarat,Ahmedabad,March,Saturday,Hazy,Intersection
+Telangana,Some City,September,Wednesday,Rainy,Curve
+Bihar,Some City,May,Wednesday,Rainy,Intersection
+Tamil Nadu,Chennai,March,Thursday,Rainy,Intersection
+West Bengal,Durgapur,May,Thursday,Rainy,Curve
+Chhattisgarh,Some City,August,Tuesday,Hazy,Intersection
+Bihar,Some City,March,Tuesday,Hazy,Intersection
+Meghalaya,Some City,May,Wednesday,Hazy,Intersection
+Uttarakhand,Some City,March,Sunday,Hazy,Intersection
+Kerala,Some City,December,Friday,Clear,Curve
+Delhi,Dwarka,February,Wednesday,Rainy,Intersection
+Jharkhand,Some City,November,Wednesday,Clear,Curve
+Meghalaya,Some City,June,Friday,Hazy,Curve
+Meghalaya,Some City,December,Sunday,Rainy,Curve
+Uttarakhand,Some City,February,Monday,Hazy,Intersection
+Tamil Nadu,Chennai,January,Sunday,Foggy,Intersection
+Uttarakhand,Some City,July,Sunday,Hazy,Intersection
+Meghalaya,Some City,January,Thursday,Rainy,Intersection

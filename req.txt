@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+seaborn
+numpy
+pandas
+pathlib
+scikit-learn
+imbalanced-learn
+python-dotenv
